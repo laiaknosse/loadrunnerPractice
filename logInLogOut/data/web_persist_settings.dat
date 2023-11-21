@@ -1,0 +1,33 @@
+[StartRecordingGMT]
+StartRecordingGMT_1=2023/11/11 04:24:51
+StartRecordingIsDst_1=0
+StartRecordingGMT_2=2023/11/11 04:27:21
+StartRecordingIsDst_2=0
+StartRecordingGMT_3=2023/11/11 04:29:09
+StartRecordingIsDst_3=0
+StartRecordingGMT_4=2023/11/11 04:33:50
+StartRecordingIsDst_4=0
+StartRecordingGMT_5=2023/11/11 04:35:38
+StartRecordingIsDst_5=0
+StartRecordingGMT_6=2023/11/11 04:37:35
+StartRecordingIsDst_6=0
+StartRecordingGMT_7=2023/11/11 04:42:03
+StartRecordingIsDst_7=0
+StartRecordingGMT_8=2023/11/12 16:07:36
+StartRecordingIsDst_8=0
+StartRecordingGMT_9=2023/11/12 16:11:29
+StartRecordingIsDst_9=0
+StartRecordingGMT_10=2023/11/12 16:12:42
+StartRecordingIsDst_10=0
+StartRecordingGMT_11=2023/11/12 16:14:48
+StartRecordingIsDst_11=0
+StartRecordingGMT_12=2023/11/12 16:17:02
+StartRecordingIsDst_12=0
+StartRecordingGMT_13=2023/11/12 16:17:56
+StartRecordingIsDst_13=0
+StartRecordingGMT_14=2023/11/13 08:48:55
+StartRecordingIsDst_14=0
+[User-Agent]
+User-Agent=Microsoft NCSI
+[Security]
+UsingPersistForAuthentication=1

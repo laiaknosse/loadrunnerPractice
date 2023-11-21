@@ -1,0 +1,13 @@
+//yastatic.net/s3/web4static/_/v2/EgavfmnMFLrKp2M1M4EGb_aLb7k.js
+//yastatic.net/s3/web4static/_/v2/h0pmzJENNSZ7fMR4Msd--jLLWic.css
+//yastatic.net/s3/web4static/_/v2/69bb868bb70ed0.js
+//yastatic.net/s3/web4static/_/v2/ccb3ac472bf627.js
+//yastatic.net/react/18.2.0/react-with-dom.min.js
+//yastatic.net/s3/web4static/_/v2/main-chunk.ef4e2a02a141816c12b6.js
+//yastatic.net/s3/home-static/prefetch/prefetch-white.txt
+//mail.yandex.ru/prefetch.txt
+//yastatic.net/yandex-video-player-iframe-api/prefetch.txt
+//yastatic.net/s3/home/fonts/ys/2/prefetch.txt
+//yastatic.net/s3/home/fonts/ys/4/prefetch.txt
+//yandex.ru/ads/system/context.js
+//yandex.ru/ads/system/adsdk.js

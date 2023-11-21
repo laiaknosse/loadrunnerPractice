@@ -1,0 +1,48 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t1.inf",
+                "time": 1700602608796
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: sign up now",
+                "infFile": "t2.inf",
+                "time": 1700602608894
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t3.inf",
+                "time": 1700602609020
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "web_tours_gotoSignUp",
+                "rawStartTime": 1700602608809,
+                "rawEndTime": 1700602608905,
+                "thinkTime": 0.0,
+                "wastedTime": 0.004347324371337891
+            },
+            {
+                "transactionName": "web_tours_registration",
+                "rawStartTime": 1700602608921,
+                "rawEndTime": 1700602609030,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0033426284790039064
+            },
+            {
+                "transactionName": "signIn",
+                "rawStartTime": 1700602608620,
+                "rawEndTime": 1700602609046,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0599365234375
+            }
+        ]
+    }
+]

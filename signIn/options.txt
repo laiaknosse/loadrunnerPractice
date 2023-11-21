@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\laiaknosse-PC\Documents\VuGen\Scripts\signIn
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\laiaknosse-pc\documents\vugen\scripts\signin\\logfile.log
+c:\users\laiaknosse-pc\documents\vugen\scripts\signin\\combined_signIn.c
+c:\users\laiaknosse-pc\documents\vugen\scripts\signin\\pre_cci.c

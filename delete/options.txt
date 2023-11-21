@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\laiaknosse-PC\Documents\VuGen\Scripts\delete
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\laiaknosse-pc\documents\vugen\scripts\delete\\logfile.log
+c:\users\laiaknosse-pc\documents\vugen\scripts\delete\\combined_delete.c
+c:\users\laiaknosse-pc\documents\vugen\scripts\delete\\pre_cci.c

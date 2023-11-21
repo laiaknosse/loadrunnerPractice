@@ -1,0 +1,1391 @@
+[API Trapper      ( 8c8:1028)] Recording in 64-bit mode: C:\Users\laiaknosse-PC\Documents\Downloads\FirefoxPortable\App\Firefox64\firefox.exe
+[API Trapper      (355c:5b2c)] Recording in 64-bit mode: C:\Users\laiaknosse-PC\Documents\Downloads\FirefoxPortable\App\Firefox64\firefox.exe
+[Network Analyzer (355c:6718)] ------------------------------------------------------------------------------------------
+[Network Analyzer (355c:6718)] Load Network Traffic Analyzers:
+[Network Analyzer (355c:6718)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (355c:6718)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (355c:6718)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (355c:6718)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (355c:6718)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (355c:6718)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (355c:6718)] ------------------------------------------------------------------------------------------
+[Network Analyzer (355c:53ec)] Address lookup for MSI = 192.168.0.6
+[API Trapper      (2330:840c)] Recording in 64-bit mode: C:\Users\laiaknosse-PC\Documents\Downloads\FirefoxPortable\App\Firefox64\firefox.exe
+[Network Analyzer (355c:6718)] Establish Listener @ 127.0.0.1:22379
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 127.0.0.1:22379   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 19 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (355c:6718)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (355c:6718)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (355c:6718)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (355c:6718)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 34.117.237.239:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:6db8)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 3.214.21.201:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:4a1c)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 34.160.144.191:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:7094)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 64.233.162.95:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 34.107.243.93:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:7094)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:9110)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (355c:8a4c)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 34.149.100.209:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:82ec)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 35.244.181.201:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:7e60)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:7e60)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (355c:8a4c)] SSLAccept(ssl_id = 1912999044576 = 000001BD67A0E5E0) Failed, ctx = 000001BD67989F60, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (355c:8a4c)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Web Request      (355c:53ec)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (355c:53ec)]   (Sid: 11) Client -> Server @ : 421 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:8294)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:53ec)]   (Sid: 11) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid: 11) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Net An. Error    (355c:8294)] SSLAccept(ssl_id = 1912999044576 = 000001BD67A0E5E0) Failed, ctx = 000001BD67A89340, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (355c:8294)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (355c:53ec)]   (Sid: 10) Connection Terminated (by Client)
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 34.149.100.209:443   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 34.107.243.93:443   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:22a0)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (355c:5e70)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 35.82.107.169:443   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (355c:6db8)] SSLAccept(ssl_id = 1912864818448 = 000001BD5FA0C510) Failed, ctx = 000001BD5F9FD430, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (355c:6db8)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Web Request      (355c:53ec)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (355c:53ec)]   (Sid: 11) Client -> Server @ : 462 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (355c:4a1c)] SSLAccept(ssl_id = 1912865083904 = 000001BD5FA4D200) Failed, ctx = 000001BD5F9DBED0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (355c:4a1c)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (355c:9110)] SSLAccept(ssl_id = 1912998955296 = 000001BD679F8920) Failed, ctx = 000001BD67988E20, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (355c:9110)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (355c:22a0)] SSLAccept(ssl_id = 1912998927568 = 000001BD679F1CD0) Failed, ctx = 000001BD67988E20, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Net An. Error    (355c:5e70)] SSLAccept(ssl_id = 1912999835072 = 000001BD67ACF5C0) Failed, ctx = 000001BD5F8D6C40, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Net An. Error    (355c:82ec)] SSLAccept(ssl_id = 1912999154624 = 000001BD67A293C0) Failed, ctx = 000001BD5F8D6C40, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (355c:22a0)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (355c:5e70)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (355c:82ec)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 11) Server -> Client : 1750 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 11) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c: 67c)]   (Sid: 18) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (355c:53ec)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer (355c:53ec)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer (355c:53ec)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer (355c:53ec)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer (355c:53ec)]   (Sid: 16) Connection Terminated (by Client)
+[Network Analyzer (355c:53ec)]   (Sid: 17) Connection Terminated (by Client)
+[Network Analyzer (355c:53ec)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer (355c:53ec)]   (Sid:  9) Connection Terminated (by Client)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 11) Connection Terminated (by Server)
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (355c:53ec)] "GET /canonical.html"   
+[Network Analyzer (355c:53ec)]   (Sid: 19) Client -> Server @ : 303 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 19) Connection Terminated (by Client)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 12) Connection Terminated (by Client)
+[Network Analyzer (355c:53ec)]   (Sid: 15) Connection Terminated (by Client)
+[Network Analyzer (355c:53ec)]   (Sid: 13) Connection Terminated (by Client)
+[Network Analyzer (355c:53ec)]   (Sid: 14) Connection Terminated (by Client)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:7da0)]   (Sid: 21) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:5050)]   (Sid: 22) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:3464)]   (Sid: 20) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid= 25)  PROXIED!
+[Net An. Error    (355c: 67c)] SSLAccept(ssl_id = 1912999969152 = 000001BD67AF0180) Failed, ctx = 000001BD67A88B60, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (355c: 67c)]   (Sid: 18) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:5050)]   (Sid: 22) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Web Request      (355c:53ec)] "GET /canonical.html"   
+[Network Analyzer (355c:53ec)]   (Sid: 25) Client -> Server @ : 303 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:7da0)]   (Sid: 21) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:3464)]   (Sid: 20) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:6240)]   (Sid: 23) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:6240)]   (Sid: 23) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 25) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (355c:53ec)] "GET /canonical.html"   
+[Network Analyzer (355c:53ec)]   (Sid: 25) Client -> Server @ : 303 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:2b88)]   (Sid: 24) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (355c:53ec)]   (Sid: 25) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 18) Connection Terminated (by Client)
+[Network Analyzer (355c:53ec)]   (Sid: 21) Connection Terminated (by Client)
+[Network Analyzer (355c:53ec)]   (Sid: 22) Connection Terminated (by Client)
+[Network Analyzer (355c:53ec)]   (Sid: 20) Connection Terminated (by Client)
+[Network Analyzer (355c:53ec)]   (Sid: 23) Connection Terminated (by Client)
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (355c:53ec)] "GET /success.txt?ipv4"   
+[Network Analyzer (355c:53ec)]   (Sid: 26) Client -> Server @ : 305 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 26) Connection Terminated (by Client)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (355c:2b88)] SSLAccept(ssl_id = 1913001846928 = 000001BD67CBA890) Failed, ctx = 000001BD67A89340, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (355c:2b88)]   (Sid: 24) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (355c:53ec)] "GET /success.txt?ipv4"   
+[Network Analyzer (355c:53ec)]   (Sid: 27) Client -> Server @ : 305 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (355c:53ec)] "GET /canonical.html"   
+[Network Analyzer (355c:53ec)]   (Sid: 25) Client -> Server @ : 303 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 27) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid: 25) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid: 24) Connection Terminated (by Client)
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (355c:53ec)] "GET /success.txt?ipv4"   
+[Network Analyzer (355c:53ec)]   (Sid: 27) Client -> Server @ : 305 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:5edc)]   (Sid: 28) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (355c:53ec)]   (Sid: 27) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (355c:5edc)] SSLAccept(ssl_id = 1913001853088 = 000001BD67CBC0A0) Failed, ctx = 000001BD67A89340, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (355c:5edc)]   (Sid: 28) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (355c:53ec)] "GET /canonical.html"   
+[Network Analyzer (355c:53ec)]   (Sid: 25) Client -> Server @ : 303 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:53ec)]   (Sid: 25) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 29)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (355c:53ec)] "GET /success.txt?ipv4"   
+[Network Analyzer (355c:53ec)]   (Sid: 27) Client -> Server @ : 305 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:388c)]   (Sid: 29) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (355c:53ec)]   (Sid: 27) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (355c:388c)] SSLAccept(ssl_id = 1913001846928 = 000001BD67CBA890) Failed, ctx = 000001BD67A89340, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (355c:388c)]   (Sid: 29) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (355c:53ec)] "GET /canonical.html"   
+[Network Analyzer (355c:53ec)]   (Sid: 25) Client -> Server @ : 303 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 25) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (355c:53ec)] "GET /success.txt?ipv4"   
+[Network Analyzer (355c:53ec)]   (Sid: 27) Client -> Server @ : 305 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 27) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 28) Connection Terminated (by Client)
+[Network Analyzer (355c:53ec)]   (Sid: 29) Connection Terminated (by Client)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 34.107.243.93:443   (Service=)  (Sid= 30)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:23cc)]   (Sid: 30) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (355c:23cc)] SSLAccept(ssl_id = 1913001834608 = 000001BD67CB7870) Failed, ctx = 000001BD67988E20, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (355c:23cc)]   (Sid: 30) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (355c:53ec)] "GET /canonical.html"   
+[Network Analyzer (355c:53ec)]   (Sid: 25) Client -> Server @ : 303 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 25) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (355c:53ec)] "GET /success.txt?ipv4"   
+[Network Analyzer (355c:53ec)]   (Sid: 27) Client -> Server @ : 305 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 27) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 30) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent web_tours_login [Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 31)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (355c:53ec)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (355c:53ec)]   (Sid: 31) Client -> Server @ : 670 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 31) Server -> Client : 847 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid: 31) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (355c:53ec)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (355c:53ec)]   (Sid: 31) Client -> Server @ : 567 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 32)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (355c:53ec)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (355c:53ec)]   (Sid: 32) Client -> Server @ : 562 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 32) Server -> Client : 1154 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid: 32) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 31) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid: 31) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (355c:53ec)] "GET /WebTours/images/flights.gif"   
+[Network Analyzer (355c:53ec)]   (Sid: 31) Client -> Server @ : 488 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (355c:53ec)] "GET /WebTours/images/itinerary.gif"   
+[Network Analyzer (355c:53ec)]   (Sid: 32) Client -> Server @ : 490 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 31) Connection Terminated (by Client)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 32) Connection Terminated (by Client)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 34.107.243.93:443   (Service=)  (Sid= 33)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:8aac)]   (Sid: 33) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (355c:8aac)] SSLAccept(ssl_id = 1913001834608 = 000001BD67CB7870) Failed, ctx = 000001BD67988E20, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (355c:8aac)]   (Sid: 33) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (355c:53ec)] "GET /canonical.html"   
+[Network Analyzer (355c:53ec)]   (Sid: 25) Client -> Server @ : 303 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 25) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (355c:53ec)] "GET /success.txt?ipv4"   
+[Network Analyzer (355c:53ec)]   (Sid: 27) Client -> Server @ : 305 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 27) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 33) Connection Terminated (by Client)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 34)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent web_tours_login [Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 34) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent flights_search [Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 35)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (355c:53ec)] "GET /cgi-bin/welcome.pl?page=search"   
+[Network Analyzer (355c:53ec)]   (Sid: 35) Client -> Server @ : 581 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 35) Server -> Client : 839 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid: 35) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (355c:53ec)] "GET /cgi-bin/nav.pl?page=menu&in=flights"   
+[Network Analyzer (355c:53ec)]   (Sid: 35) Client -> Server @ : 584 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 36)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (355c:53ec)] "GET /cgi-bin/reservations.pl?page=welcome"   
+[Network Analyzer (355c:53ec)]   (Sid: 36) Client -> Server @ : 585 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 35) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid: 35) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (355c:53ec)] "GET /WebTours/images/in_flights.gif"   
+[Network Analyzer (355c:53ec)]   (Sid: 35) Client -> Server @ : 494 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 35) Connection Terminated (by Client)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:53ec)]   (Sid: 36) Server -> Client : 4516 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid: 36) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 37)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (355c:53ec)] "GET /WebTours/images/button_next.gif"   
+[Network Analyzer (355c:53ec)]   (Sid: 36) Client -> Server @ : 496 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 36) Connection Terminated (by Client)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 37) Connection Terminated (by Client)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 34.117.65.55:443   (Service=)  (Sid= 38)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:2220)]   (Sid: 38) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (355c:2220)] SSLAccept(ssl_id = 1913001865408 = 000001BD67CBF0C0) Failed, ctx = 000001BD67988E20, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (355c:2220)]   (Sid: 38) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (355c:53ec)] "GET /canonical.html"   
+[Network Analyzer (355c:53ec)]   (Sid: 25) Client -> Server @ : 303 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 25) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (355c:53ec)] "GET /success.txt?ipv4"   
+[Network Analyzer (355c:53ec)]   (Sid: 27) Client -> Server @ : 305 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 27) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 38) Connection Terminated (by Client)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 39)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 39) Connection Terminated (by Client)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 40)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (355c:53ec)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (355c:53ec)]   (Sid: 40) Client -> Server @ : 919 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 40) Server -> Client : 2703 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid: 40) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 40) Connection Terminated (by Server)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 41)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (355c:53ec)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (355c:53ec)]   (Sid: 41) Client -> Server @ : 811 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 41) Server -> Client : 2961 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid: 41) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 41) Connection Terminated (by Client)
+[User action                 ] EndTransactionEvent flights_search [Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 42)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 42) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent web_tours_logout [Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 43)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (355c:53ec)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer (355c:53ec)]   (Sid: 43) Client -> Server @ : 582 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 43) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid: 43) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (355c:53ec)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (355c:53ec)]   (Sid: 43) Client -> Server @ : 459 bytes (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:6718)] Address lookup for MSI = 192.168.0.6
+[Network Analyzer (355c:6718)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 44)  PROXIED!
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid: 43) Server -> Client : 1752 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid: 43) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (355c:53ec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent web_tours_logout 
