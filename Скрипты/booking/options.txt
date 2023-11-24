@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\laiaknosse-PC\Documents\VuGen\Scripts\booking
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\laiaknosse-pc\documents\vugen\scripts\booking\\logfile.log
+c:\users\laiaknosse-pc\documents\vugen\scripts\booking\\combined_booking.c
+c:\users\laiaknosse-pc\documents\vugen\scripts\booking\\pre_cci.c

@@ -1,0 +1,4 @@
+"firstName=Toto&lastName=Tean&address1=Paris&address2=Seventh+st.+7&pass1=Toto+Tean&creditCard="
+"77777777&expDate=07%2F25&oldCCOption=&numPassengers=1&seatType=First&seatPref=Window&outboundF"
+"light=071%3B260%3B11%2F14%2F2023&advanceDiscount=0&returnFlight=&JSFormSubmit=off&buyFlights.x"
+"=46&buyFlights.y=8&.cgifields=saveCC"
