@@ -382,6 +382,14 @@
 		2020.0.0.793                  C:\Program Files (x86)\Micro Focus\LoadRunner\bin\tlb_query.dll
 		2020.0.0.793                  C:\Program Files (x86)\Micro Focus\LoadRunner\bin\xmlstorage.dll
 		8.110.19041.844               C:\WINDOWS\System32\msxml3.dll
+		11.00.19041.1586 (WinBuild.160101.0800)C:\Windows\System32\jscript9.dll
+		10.0.19041.1586 (WinBuild.160101.0800)C:\Windows\System32\vaultcli.dll
+		10.0.19041.746 (WinBuild.160101.0800)C:\WINDOWS\System32\UIAnimation.dll
+		2020.0.0.793                  C:\Program Files (x86)\Micro Focus\LoadRunner\bin\webstepview.dll
+		2020.0.0.248                  C:\Program Files (x86)\Micro Focus\LoadRunner\bin\MercParamEdit.ocx
+		10.0.19041.2546 (WinBuild.160101.0800)C:\Windows\System32\OneCoreCommonProxyStub.dll
+		10.0.19041.3031 (WinBuild.160101.0800)C:\Windows\System32\OneCoreUAPCommonProxyStub.dll
+		10.0.19041.1586 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\profext.dll
 		2020.0.0.793                  C:\Program Files (x86)\Micro Focus\LoadRunner\bin\api_inspector.dll
 		2020.0.0.267                  C:\Program Files (x86)\Micro Focus\LoadRunner\bin\trpfnc32.dll
 		2020.0.0.793                  C:\Program Files (x86)\Micro Focus\LoadRunner\bin\lrc_basic_filters.dll
@@ -391,12 +399,12 @@
 		2020.0.0.793                  C:\Program Files (x86)\Micro Focus\LoadRunner\bin\WebSocketFilter.dll
 		2020.0.0.793                  C:\Program Files (x86)\Micro Focus\LoadRunner\bin\VnpLog.dll
 		2020.0.0.793                  C:\Program Files (x86)\Micro Focus\LoadRunner\bin\WebHTMLCodeGen.dll
-		2020.0.0.793                  C:\Program Files (x86)\Micro Focus\LoadRunner\bin\WebRecorder.dll
 		2.9.0                         C:\Program Files (x86)\Micro Focus\LoadRunner\bin\cpprest140_2_9.dll
-		2020.0.0.793                  C:\Program Files (x86)\Micro Focus\LoadRunner\bin\WebCorrelation.dll
-		2020.0.0.267                  C:\Program Files (x86)\Micro Focus\LoadRunner\bin\jconv_str.dll
+		2020.0.0.793                  C:\Program Files (x86)\Micro Focus\LoadRunner\bin\WebRecorder.dll
 		10.0.19041.1 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\HTTPAPI.dll
 		14.36.32532.0                 C:\WINDOWS\SYSTEM32\CONCRT140.dll
+		2020.0.0.267                  C:\Program Files (x86)\Micro Focus\LoadRunner\bin\jconv_str.dll
+		2020.0.0.793                  C:\Program Files (x86)\Micro Focus\LoadRunner\bin\WebCorrelation.dll
 		2020.0.0.793                  C:\Program Files (x86)\Micro Focus\LoadRunner\bin\WebConvertFromFormattedFilter.dll
 		2020.0.0.793                  C:\Program Files (x86)\Micro Focus\LoadRunner\bin\WebConvertFromFormattedPostFilter.dll
 		2020.0.0.793                  C:\Program Files (x86)\Micro Focus\LoadRunner\bin\WebExtractServerNameFilter.dll

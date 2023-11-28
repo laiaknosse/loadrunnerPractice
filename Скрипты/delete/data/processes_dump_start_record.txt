@@ -109,8 +109,6 @@ Failed to get information of process Id: 5944
 Failed to get information of process Id: 6288
 Failed to get information of process Id: 7296
 Failed to get information of process Id: 7308
-Failed to get information of process Id: 7400
-Failed to get information of process Id: 7408
 Failed to get information of process Id: 7916
 Failed to get information of process Id: 7964
 Failed to get information of process Id: 8668
@@ -176,7 +174,6 @@ PROCESS 0x43cc      magentproc.exe
 Failed to get information of process Id: 18680
 Failed to get information of process Id: 17424
 Failed to get information of process Id: 17452
-Failed to get information of process Id: 17588
 PROCESS 0x44d4      remoteserverwin.exe
 Failed to get information of process Id: 17824
 Failed to get information of process Id: 18088
@@ -197,31 +194,9 @@ PROCESS 0x584c      discord.exe
 Failed to get information of process Id: 14776
 Failed to get information of process Id: 23504
 Failed to get information of process Id: 10360
-PROCESS 0x5f78      samsungmagician.exe
-Failed to get information of process Id: 24512
-Failed to get information of process Id: 24476
 Failed to get information of process Id: 24760
 Failed to get information of process Id: 21584
-Failed to get information of process Id: 17168
 Failed to get information of process Id: 8016
-Failed to get information of process Id: 25068
-Failed to get information of process Id: 20416
-Failed to get information of process Id: 20440
-Failed to get information of process Id: 21488
-Failed to get information of process Id: 1808
-Failed to get information of process Id: 11004
-Failed to get information of process Id: 13356
-Failed to get information of process Id: 15732
-Failed to get information of process Id: 5656
-Failed to get information of process Id: 4560
-Failed to get information of process Id: 12784
-Failed to get information of process Id: 7376
-Failed to get information of process Id: 1784
-Failed to get information of process Id: 16080
-Failed to get information of process Id: 1984
-Failed to get information of process Id: 5076
-Failed to get information of process Id: 7136
-Failed to get information of process Id: 15440
 Failed to get information of process Id: 5920
 Failed to get information of process Id: 16912
 PROCESS 0x5d70      battle.net.exe
@@ -229,9 +204,6 @@ PROCESS 0x371c      agent.exe
 Failed to get information of process Id: 14068
 PROCESS 0x350       battle.net.exe
 PROCESS 0x3118      battle.net.exe
-PROCESS 0x6548      battle.net.exe
-PROCESS 0x674       battle.net.exe
-PROCESS 0x60c       battle.net.exe
 Failed to get information of process Id: 26140
 PROCESS 0x1678      vugen.exe
 PROCESS 0x59d0      eowp.exe
@@ -242,11 +214,6 @@ PROCESS 0x2660      eowp.exe
 Failed to get information of process Id: 5860
 Failed to get information of process Id: 20960
 Failed to get information of process Id: 5328
-Failed to get information of process Id: 18756
-Failed to get information of process Id: 24180
-Failed to get information of process Id: 10808
-Failed to get information of process Id: 25144
-Failed to get information of process Id: 24140
 Failed to get information of process Id: 19284
 Failed to get information of process Id: 26276
 Failed to get information of process Id: 25820
@@ -261,23 +228,12 @@ Failed to get information of process Id: 14892
 Failed to get information of process Id: 25988
 PROCESS 0x58a4      httpd.exe
 PROCESS 0x5d90      httpd.exe
-Failed to get information of process Id: 17788
 PROCESS 0x7118      eowp.exe
-Failed to get information of process Id: 28352
-Failed to get information of process Id: 20852
-Failed to get information of process Id: 24316
-Failed to get information of process Id: 30144
 Failed to get information of process Id: 18660
 Failed to get information of process Id: 31416
 Failed to get information of process Id: 24132
 Failed to get information of process Id: 29792
 PROCESS 0x7934      eowp.exe
-Failed to get information of process Id: 26496
-Failed to get information of process Id: 6176
-Failed to get information of process Id: 9504
-Failed to get information of process Id: 4576
-Failed to get information of process Id: 11364
-Failed to get information of process Id: 16832
 Failed to get information of process Id: 29544
 PROCESS 0x7cec      steam.exe
 Failed to get information of process Id: 19420
@@ -286,30 +242,69 @@ Failed to get information of process Id: 26568
 Failed to get information of process Id: 10580
 Failed to get information of process Id: 33520
 Failed to get information of process Id: 33740
-Failed to get information of process Id: 31796
 Failed to get information of process Id: 29608
 Failed to get information of process Id: 18708
-Failed to get information of process Id: 3424
 Failed to get information of process Id: 18528
 Failed to get information of process Id: 21736
-Failed to get information of process Id: 33060
-Failed to get information of process Id: 20444
-Failed to get information of process Id: 17784
-Failed to get information of process Id: 612
-Failed to get information of process Id: 26536
-Failed to get information of process Id: 29044
-Failed to get information of process Id: 18996
-Failed to get information of process Id: 1188
-Failed to get information of process Id: 29996
-Failed to get information of process Id: 29504
-Failed to get information of process Id: 9632
-Failed to get information of process Id: 29052
-Failed to get information of process Id: 26280
-Failed to get information of process Id: 20952
-Failed to get information of process Id: 34992
-Failed to get information of process Id: 4292
-Failed to get information of process Id: 6276
-Failed to get information of process Id: 30172
-Failed to get information of process Id: 10224
-Failed to get information of process Id: 27052
-Failed to get information of process Id: 34668
+Failed to get information of process Id: 34112
+Failed to get information of process Id: 18968
+Failed to get information of process Id: 33348
+Failed to get information of process Id: 28700
+Failed to get information of process Id: 33800
+Failed to get information of process Id: 2792
+Failed to get information of process Id: 32832
+Failed to get information of process Id: 36372
+Failed to get information of process Id: 10004
+Failed to get information of process Id: 17268
+Failed to get information of process Id: 12316
+Failed to get information of process Id: 36480
+Failed to get information of process Id: 37788
+Failed to get information of process Id: 32560
+Failed to get information of process Id: 9036
+Failed to get information of process Id: 14064
+Failed to get information of process Id: 34756
+Failed to get information of process Id: 4260
+Failed to get information of process Id: 26868
+Failed to get information of process Id: 3516
+Failed to get information of process Id: 1904
+Failed to get information of process Id: 3564
+Failed to get information of process Id: 34512
+Failed to get information of process Id: 29564
+Failed to get information of process Id: 29264
+Failed to get information of process Id: 13348
+Failed to get information of process Id: 25980
+Failed to get information of process Id: 36032
+Failed to get information of process Id: 9156
+Failed to get information of process Id: 15348
+Failed to get information of process Id: 34780
+Failed to get information of process Id: 8180
+PROCESS 0x745c      battle.net.exe
+PROCESS 0x27dc      battle.net.exe
+Failed to get information of process Id: 8948
+Failed to get information of process Id: 23012
+Failed to get information of process Id: 29304
+Failed to get information of process Id: 16860
+Failed to get information of process Id: 37652
+Failed to get information of process Id: 24684
+Failed to get information of process Id: 29116
+Failed to get information of process Id: 25320
+Failed to get information of process Id: 35916
+Failed to get information of process Id: 7424
+Failed to get information of process Id: 27968
+Failed to get information of process Id: 36568
+Failed to get information of process Id: 21384
+Failed to get information of process Id: 33212
+Failed to get information of process Id: 37072
+Failed to get information of process Id: 32428
+Failed to get information of process Id: 19600
+PROCESS 0x2b34      battle.net.exe
+Failed to get information of process Id: 15412
+Failed to get information of process Id: 28824
+Failed to get information of process Id: 35180
+Failed to get information of process Id: 5720
+Failed to get information of process Id: 21924
+Failed to get information of process Id: 16648
+Failed to get information of process Id: 28044
+Failed to get information of process Id: 8888
+Failed to get information of process Id: 29484
+Failed to get information of process Id: 5292

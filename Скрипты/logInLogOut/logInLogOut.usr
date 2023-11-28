@@ -52,13 +52,14 @@ vuser_init=cci
 Action=cci
 vuser_end=cci
 [TransactionsOrder]
-Order="web_tours_login__*delimiter*__web_tours_logout__*delimiter*__loginLogout"
+Order="web_tours_goto_welcome__*delimiter*__web_tours_logout__*delimiter*__loginLogout__*delimiter*__web_tours_login"
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
 LastReplayedRunName=result1
 ActiveRunName=result1
 [Transactions]
-web_tours_login=
+web_tours_goto_welcome=
 web_tours_logout=
 loginLogout=
+web_tours_login=

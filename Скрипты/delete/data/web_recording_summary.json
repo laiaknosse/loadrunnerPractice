@@ -13,14 +13,6 @@
       "IncludeInScript": true
     },
     {
-      "Header": "if-none-match",
-      "IncludeInScript": false
-    },
-    {
-      "Header": "if-modified-since",
-      "IncludeInScript": false
-    },
-    {
       "Header": "accept-language",
       "IncludeInScript": false
     },
@@ -37,25 +29,21 @@
     {
       "IsNonResource": true,
       "type": "text/html"
-    },
-    {
-      "IsNonResource": false,
-      "type": "image/gif"
     }
   ],
   "GeneralInfo": {
     "BrowserVersion": "",
     "IsWinInetMode": false,
-    "MaxUsedConnections": 7,
+    "MaxUsedConnections": 9,
     "RecordedBrowser": "Firefox",
     "RecordingDate": "ноя-13-2023",
-    "RecordingDuration": 101609,
+    "RecordingDuration": 75609,
     "RecordingMode": "N/A",
     "RecordingTimeStamp": 1699866201,
     "RecordingType": "Browser",
-    "TotalBytesReceived": 30436,
-    "TotalBytesSent": 13693,
-    "TotalRequests": 23,
+    "TotalBytesReceived": 20514,
+    "TotalBytesSent": 8422,
+    "TotalRequests": 15,
     "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0"
   },
   "HostInfo": [
@@ -72,107 +60,26 @@
             {
               "CompressionType": "",
               "DataType": "text/html",
-              "DownloadTime": 32,
-              "EventId": 5468,
-              "HttpStatus": 200,
-              "Size": 887,
-              "URL": "http://localhost:1080/cgi-bin/itinerary.pl"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 78,
-              "EventId": 5465,
-              "HttpStatus": 200,
-              "Size": 1482,
-              "URL": "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 31,
-              "EventId": 5462,
-              "HttpStatus": 200,
-              "Size": 2620,
-              "URL": "http://localhost:1080/cgi-bin/itinerary.pl"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 15,
-              "EventId": 5457,
-              "HttpStatus": 200,
-              "Size": 591,
-              "URL": "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "",
               "DownloadTime": 62,
-              "EventId": 5455,
-              "HttpStatus": 304,
-              "Size": 0,
-              "URL": "http://localhost:1080/WebTours/images/bookanother.gif"
+              "EventId": 9506,
+              "HttpStatus": 200,
+              "Size": 1484,
+              "URL": "http://localhost:1080/cgi-bin/nav.pl?in=home"
             },
             {
               "CompressionType": "",
               "DataType": "text/html",
               "DownloadTime": 31,
-              "EventId": 5452,
+              "EventId": 9501,
               "HttpStatus": 200,
-              "Size": 2467,
-              "URL": "http://localhost:1080/cgi-bin/reservations.pl"
+              "Size": 686,
+              "URL": "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"
             },
             {
               "CompressionType": "",
               "DataType": "text/html",
-              "DownloadTime": 31,
-              "EventId": 5415,
-              "HttpStatus": 200,
-              "Size": 2698,
-              "URL": "http://localhost:1080/cgi-bin/reservations.pl"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 46,
-              "EventId": 5395,
-              "HttpStatus": 200,
-              "Size": 2436,
-              "URL": "http://localhost:1080/cgi-bin/reservations.pl"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "image/gif",
-              "DownloadTime": 16,
-              "EventId": 5177,
-              "HttpStatus": 200,
-              "Size": 758,
-              "URL": "http://localhost:1080/WebTours/images/button_next.gif"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "image/gif",
-              "DownloadTime": 0,
-              "EventId": 5173,
-              "HttpStatus": 200,
-              "Size": 726,
-              "URL": "http://localhost:1080/WebTours/images/in_flights.gif"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 125,
-              "EventId": 5157,
-              "HttpStatus": 200,
-              "Size": 4246,
-              "URL": "http://localhost:1080/cgi-bin/reservations.pl?page=welcome"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 109,
-              "EventId": 5155,
+              "DownloadTime": 63,
+              "EventId": 9495,
               "HttpStatus": 200,
               "Size": 1482,
               "URL": "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights"
@@ -181,25 +88,25 @@
               "CompressionType": "",
               "DataType": "text/html",
               "DownloadTime": 31,
-              "EventId": 5146,
+              "EventId": 9491,
+              "HttpStatus": 200,
+              "Size": 4246,
+              "URL": "http://localhost:1080/cgi-bin/reservations.pl?page=welcome"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 16,
+              "EventId": 9486,
               "HttpStatus": 200,
               "Size": 616,
               "URL": "http://localhost:1080/cgi-bin/welcome.pl?page=search"
             },
             {
               "CompressionType": "",
-              "DataType": "image/gif",
-              "DownloadTime": 0,
-              "EventId": 5025,
-              "HttpStatus": 200,
-              "Size": 733,
-              "URL": "http://localhost:1080/WebTours/images/in_itinerary.gif"
-            },
-            {
-              "CompressionType": "",
               "DataType": "text/html",
-              "DownloadTime": 78,
-              "EventId": 5007,
+              "DownloadTime": 32,
+              "EventId": 9483,
               "HttpStatus": 200,
               "Size": 887,
               "URL": "http://localhost:1080/cgi-bin/itinerary.pl"
@@ -207,8 +114,8 @@
             {
               "CompressionType": "",
               "DataType": "text/html",
-              "DownloadTime": 31,
-              "EventId": 5002,
+              "DownloadTime": 62,
+              "EventId": 9477,
               "HttpStatus": 200,
               "Size": 1482,
               "URL": "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary"
@@ -217,7 +124,16 @@
               "CompressionType": "",
               "DataType": "text/html",
               "DownloadTime": 31,
-              "EventId": 4994,
+              "EventId": 9473,
+              "HttpStatus": 200,
+              "Size": 2623,
+              "URL": "http://localhost:1080/cgi-bin/itinerary.pl"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 32,
+              "EventId": 9470,
               "HttpStatus": 200,
               "Size": 591,
               "URL": "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary"
@@ -225,17 +141,8 @@
             {
               "CompressionType": "",
               "DataType": "text/html",
-              "DownloadTime": 47,
-              "EventId": 4629,
-              "HttpStatus": 200,
-              "Size": 918,
-              "URL": "http://localhost:1080/cgi-bin/login.pl?intro=true"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 78,
-              "EventId": 4620,
+              "DownloadTime": 63,
+              "EventId": 9454,
               "HttpStatus": 200,
               "Size": 1482,
               "URL": "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"
@@ -243,35 +150,44 @@
             {
               "CompressionType": "",
               "DataType": "text/html",
-              "DownloadTime": 47,
-              "EventId": 4615,
+              "DownloadTime": 31,
+              "EventId": 9451,
+              "HttpStatus": 200,
+              "Size": 918,
+              "URL": "http://localhost:1080/cgi-bin/login.pl?intro=true"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 31,
+              "EventId": 9446,
               "HttpStatus": 200,
               "Size": 481,
               "URL": "http://localhost:1080/cgi-bin/login.pl"
             },
             {
               "CompressionType": "",
-              "DataType": "image/gif",
-              "DownloadTime": 0,
-              "EventId": 4099,
-              "HttpStatus": 200,
-              "Size": 679,
-              "URL": "http://localhost:1080/WebTours/images/mer_login.gif"
-            },
-            {
-              "CompressionType": "",
               "DataType": "text/html",
-              "DownloadTime": 46,
-              "EventId": 4062,
+              "DownloadTime": 31,
+              "EventId": 8895,
               "HttpStatus": 200,
-              "Size": 1488,
+              "Size": 1489,
               "URL": "http://localhost:1080/cgi-bin/nav.pl?in=home"
             },
             {
               "CompressionType": "",
               "DataType": "text/html",
-              "DownloadTime": 156,
-              "EventId": 3991,
+              "DownloadTime": 15,
+              "EventId": 8891,
+              "HttpStatus": 200,
+              "Size": 1361,
+              "URL": "http://localhost:1080/WebTours/home.html"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 32,
+              "EventId": 8877,
               "HttpStatus": 200,
               "Size": 686,
               "URL": "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"
@@ -297,7 +213,7 @@
               "CompressionType": "",
               "DataType": "text/plain",
               "DownloadTime": 47,
-              "EventId": 5446,
+              "EventId": 9424,
               "HttpStatus": 200,
               "Size": 8,
               "URL": "http://detectportal.firefox.com/success.txt?ipv4"
@@ -306,259 +222,7 @@
               "CompressionType": "",
               "DataType": "text/html",
               "DownloadTime": 47,
-              "EventId": 5432,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 62,
-              "EventId": 5412,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 47,
-              "EventId": 5398,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 125,
-              "EventId": 5389,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 47,
-              "EventId": 5371,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 62,
-              "EventId": 5364,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 78,
-              "EventId": 5348,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 63,
-              "EventId": 5342,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 47,
-              "EventId": 5327,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 94,
-              "EventId": 5320,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 47,
-              "EventId": 5303,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 62,
-              "EventId": 5296,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 47,
-              "EventId": 5281,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 62,
-              "EventId": 5274,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 47,
-              "EventId": 5257,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 63,
-              "EventId": 5250,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 156,
-              "EventId": 5236,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 63,
-              "EventId": 5228,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 62,
-              "EventId": 5209,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 78,
-              "EventId": 5203,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 63,
-              "EventId": 5188,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 62,
-              "EventId": 5184,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 46,
-              "EventId": 5160,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 47,
-              "EventId": 5149,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 47,
-              "EventId": 5127,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 94,
-              "EventId": 5121,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 63,
-              "EventId": 5106,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 47,
-              "EventId": 5098,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 47,
-              "EventId": 5083,
+              "EventId": 9410,
               "HttpStatus": 200,
               "Size": 90,
               "URL": "http://detectportal.firefox.com/canonical.html"
@@ -567,7 +231,7 @@
               "CompressionType": "",
               "DataType": "text/plain",
               "DownloadTime": 140,
-              "EventId": 5076,
+              "EventId": 9404,
               "HttpStatus": 200,
               "Size": 8,
               "URL": "http://detectportal.firefox.com/success.txt?ipv4"
@@ -576,79 +240,7 @@
               "CompressionType": "",
               "DataType": "text/html",
               "DownloadTime": 47,
-              "EventId": 5060,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 63,
-              "EventId": 5053,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 63,
-              "EventId": 5038,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 63,
-              "EventId": 5028,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 63,
-              "EventId": 5010,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 62,
-              "EventId": 4997,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 62,
-              "EventId": 4976,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 63,
-              "EventId": 4969,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 47,
-              "EventId": 4954,
+              "EventId": 9388,
               "HttpStatus": 200,
               "Size": 90,
               "URL": "http://detectportal.firefox.com/canonical.html"
@@ -657,7 +249,7 @@
               "CompressionType": "",
               "DataType": "text/plain",
               "DownloadTime": 47,
-              "EventId": 4947,
+              "EventId": 9371,
               "HttpStatus": 200,
               "Size": 8,
               "URL": "http://detectportal.firefox.com/success.txt?ipv4"
@@ -666,205 +258,7 @@
               "CompressionType": "",
               "DataType": "text/html",
               "DownloadTime": 47,
-              "EventId": 4932,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 62,
-              "EventId": 4925,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 47,
-              "EventId": 4907,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 62,
-              "EventId": 4901,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 47,
-              "EventId": 4886,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 78,
-              "EventId": 4879,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 47,
-              "EventId": 4862,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 63,
-              "EventId": 4856,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 47,
-              "EventId": 4837,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 62,
-              "EventId": 4831,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 63,
-              "EventId": 4816,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 63,
-              "EventId": 4809,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 47,
-              "EventId": 4790,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 47,
-              "EventId": 4784,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 47,
-              "EventId": 4769,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 78,
-              "EventId": 4762,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 63,
-              "EventId": 4747,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 62,
-              "EventId": 4740,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 46,
-              "EventId": 4724,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 63,
-              "EventId": 4717,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 46,
-              "EventId": 4699,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 78,
-              "EventId": 4693,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 47,
-              "EventId": 4678,
+              "EventId": 9346,
               "HttpStatus": 200,
               "Size": 90,
               "URL": "http://detectportal.firefox.com/canonical.html"
@@ -873,25 +267,7 @@
               "CompressionType": "",
               "DataType": "text/plain",
               "DownloadTime": 46,
-              "EventId": 4671,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 46,
-              "EventId": 4654,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 63,
-              "EventId": 4648,
+              "EventId": 9287,
               "HttpStatus": 200,
               "Size": 8,
               "URL": "http://detectportal.firefox.com/success.txt?ipv4"
@@ -900,160 +276,7 @@
               "CompressionType": "",
               "DataType": "text/html",
               "DownloadTime": 47,
-              "EventId": 4632,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 62,
-              "EventId": 4617,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 46,
-              "EventId": 4592,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 47,
-              "EventId": 4586,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 47,
-              "EventId": 4570,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 62,
-              "EventId": 4563,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 47,
-              "EventId": 4544,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 94,
-              "EventId": 4538,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 47,
-              "EventId": 4523,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 47,
-              "EventId": 4516,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 47,
-              "EventId": 4501,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 62,
-              "EventId": 4494,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 62,
-              "EventId": 4475,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 62,
-              "EventId": 4473,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 47,
-              "EventId": 4452,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 94,
-              "EventId": 4441,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/plain",
-              "DownloadTime": 62,
-              "EventId": 4421,
-              "HttpStatus": 200,
-              "Size": 8,
-              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 46,
-              "EventId": 4418,
+              "EventId": 9273,
               "HttpStatus": 200,
               "Size": 90,
               "URL": "http://detectportal.firefox.com/canonical.html"
@@ -1062,7 +285,7 @@
               "CompressionType": "",
               "DataType": "text/plain",
               "DownloadTime": 46,
-              "EventId": 4402,
+              "EventId": 9267,
               "HttpStatus": 200,
               "Size": 8,
               "URL": "http://detectportal.firefox.com/success.txt?ipv4"
@@ -1071,16 +294,7 @@
               "CompressionType": "",
               "DataType": "text/html",
               "DownloadTime": 47,
-              "EventId": 4387,
-              "HttpStatus": 200,
-              "Size": 90,
-              "URL": "http://detectportal.firefox.com/canonical.html"
-            },
-            {
-              "CompressionType": "",
-              "DataType": "text/html",
-              "DownloadTime": 47,
-              "EventId": 4340,
+              "EventId": 9250,
               "HttpStatus": 200,
               "Size": 90,
               "URL": "http://detectportal.firefox.com/canonical.html"
@@ -1089,7 +303,7 @@
               "CompressionType": "",
               "DataType": "text/plain",
               "DownloadTime": 47,
-              "EventId": 4321,
+              "EventId": 9236,
               "HttpStatus": 200,
               "Size": 8,
               "URL": "http://detectportal.firefox.com/success.txt?ipv4"
@@ -1097,8 +311,26 @@
             {
               "CompressionType": "",
               "DataType": "text/html",
-              "DownloadTime": 63,
-              "EventId": 4291,
+              "DownloadTime": 47,
+              "EventId": 9218,
+              "HttpStatus": 200,
+              "Size": 90,
+              "URL": "http://detectportal.firefox.com/canonical.html"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 47,
+              "EventId": 9216,
+              "HttpStatus": 200,
+              "Size": 8,
+              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 47,
+              "EventId": 8972,
               "HttpStatus": 200,
               "Size": 90,
               "URL": "http://detectportal.firefox.com/canonical.html"
@@ -1107,7 +339,7 @@
               "CompressionType": "",
               "DataType": "text/html",
               "DownloadTime": 47,
-              "EventId": 4154,
+              "EventId": 8883,
               "HttpStatus": 200,
               "Size": 90,
               "URL": "http://detectportal.firefox.com/canonical.html"
@@ -1124,5 +356,5 @@
     "IncludeInScript": false,
     "IsScriptIncludeWebSocket": false
   },
-  "NumberOfCorrelations": 5
+  "NumberOfCorrelations": 2
 }

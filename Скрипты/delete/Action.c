@@ -33,6 +33,10 @@ Action()
 
 	web_add_header("Origin", 
 		"http://localhost:1080");
+		
+	web_reg_find("Fail=NotFound",
+	"Text=User password was correct",
+		LAST);
 
 	web_submit_data("login.pl",
 		"Action=http://localhost:1080/cgi-bin/login.pl",
@@ -44,8 +48,8 @@ Action()
 		"Mode=HTML",
 		ITEMDATA,
 		"Name=userSession", "Value={userSession}", ENDITEM,
-		"Name=username", "Value=jojo", ENDITEM,
-		"Name=password", "Value=bean", ENDITEM,
+		"Name=username", "Value={login}", ENDITEM,
+		"Name=password", "Value={password}", ENDITEM,
 		"Name=login.x", "Value=55", ENDITEM,
 		"Name=login.y", "Value=10", ENDITEM,
 		"Name=JSFormSubmit", "Value=off", ENDITEM,
@@ -61,6 +65,11 @@ Action()
 		"1");
 
 	lr_think_time(5);
+	
+	web_reg_save_param("outboundFlight",
+		"LB=name=\"flightID\" value=\"",
+		"RB=\"",
+		LAST);
 
 	web_url("Itinerary Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?page=itinerary", 
@@ -72,10 +81,6 @@ Action()
 		"Mode=HTML", 
 		LAST);
 	
-	web_reg_save_param("outboundFlight",
-		"LB=name=\"flightID\" value=\"",
-		"RB=\"",
-		LAST);
 
 	lr_end_transaction("web_tours_goto_itinerary",LR_AUTO);
 	
@@ -85,9 +90,10 @@ Action()
 		"http://localhost:1080");
 
 	lr_think_time(5);
-
+	
+	
 	web_submit_form("itinerary.pl", 
-		"Snapshot=t28.inf", 
+		"Snapshot=t44.inf", 
 		ITEMDATA, 
 		"Name=1", "Value=on", ENDITEM,
 		"Name=removeFlights.x", "Value=47", ENDITEM, 
@@ -103,6 +109,10 @@ Action()
 	lr_think_time(5);
 
 	lr_start_transaction("web_tours_logout");
+	
+	web_reg_find("Fail=NotFound",
+		"Text=Welcome to the Web Tours site",
+		LAST);
 
 	web_url("SignOff Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?signOff=1", 

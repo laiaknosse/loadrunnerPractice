@@ -1,5 +1,5 @@
-EventId=5471
-RecordingNumber=5
+EventId=9508
+RecordingNumber=8
 
 ActionInfo
 ActionName=Action
@@ -11,8 +11,8 @@ EndActionInfo
 
 ActionName=Action1
 ActionId=2
-ActionFileSize=1792270
+ActionFileSize=945860
 ActionDeleted=0
-RecordingNumber=5
+RecordingNumber=8
 EndActionInfo
 

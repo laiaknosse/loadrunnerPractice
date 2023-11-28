@@ -46,6 +46,12 @@ Action()
 		"1");
 
 	lr_think_time(5);
+	
+	lr_output_message("Random Number is %d", atoi(lr_eval_string("{randPar}")));  
+
+	web_reg_find("Fail=NotFound",
+		"Text=for registering and welcome to the Web Tours family.",
+		LAST);
 
 	web_submit_data("login.pl", 
 		"Action=http://localhost:1080/cgi-bin/login.pl", 
@@ -56,13 +62,13 @@ Action()
 		"Snapshot=t3.inf", 
 		"Mode=HTML", 
 		ITEMDATA, 
-		"Name=username", "Value={login}", ENDITEM, 
-		"Name=password", "Value={password}", ENDITEM, 
-		"Name=passwordConfirm", "Value={password}", ENDITEM, 
-		"Name=firstName", "Value={firstName}", ENDITEM, 
-		"Name=lastName", "Value={lastName}", ENDITEM, 
-		"Name=address1", "Value={address1}", ENDITEM, 
-		"Name=address2", "Value={address2}", ENDITEM, 
+		"Name=username", "Value={randPar}", ENDITEM, 
+		"Name=password", "Value={randPar}", ENDITEM, 
+		"Name=passwordConfirm", "Value={randPar}", ENDITEM, 
+		"Name=firstName", "Value={randPar}", ENDITEM, 
+		"Name=lastName", "Value={randPar}", ENDITEM, 
+		"Name=address1", "Value={randPar}", ENDITEM, 
+		"Name=address2", "Value={randPar}", ENDITEM, 
 		"Name=register.x", "Value=65", ENDITEM, 
 		"Name=register.y", "Value=15", ENDITEM, 
 		LAST);

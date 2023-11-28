@@ -4,7 +4,7 @@ Action()
 	lr_start_transaction("loginLogout");
 
 	
-	lr_start_transaction("web_tours_login");
+	lr_start_transaction("web_tours_goto_welcome");
 
 	web_set_sockets_option("SSL_VERSION", "AUTO");
 
@@ -32,9 +32,18 @@ Action()
 		"Snapshot=t4.inf", 
 		"Mode=HTML", 
 		LAST);
+		
+	lr_end_transaction("web_tours_goto_welcome",LR_AUTO);
+	
+	lr_start_transaction("web_tours_login");
+
 
 	web_add_header("Origin", 
 		"http://localhost:1080");
+	
+	web_reg_find("Fail=NotFound",
+	"Text=User password was correct",
+		LAST);
 
 	web_submit_data("login.pl",
 		"Action=http://localhost:1080/cgi-bin/login.pl",
@@ -53,11 +62,16 @@ Action()
 		"Name=JSFormSubmit", "Value=off", ENDITEM,
 		LAST);
 
-	lr_end_transaction("web_tours_login",LR_AUTO);
+	lr_end_transaction("web_tours_login", LR_AUTO);
+
 
 	lr_think_time(5);
 
 	lr_start_transaction("web_tours_logout");
+	
+	web_reg_find("Fail=NotFound",
+		"Text=Welcome to the Web Tours site",
+		LAST);
 
 	web_url("SignOff Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?signOff=1", 

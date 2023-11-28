@@ -2589,8 +2589,14 @@ void
 
 
 
+
+
+
  
  
+
+
+
 
 
 
@@ -2642,6 +2648,10 @@ Action()
 
 	web_add_header("Origin", 
 		"http://localhost:1080");
+		
+	web_reg_find("Fail=Found",
+	"Text=User password was incorrect",
+		"LAST");
 
 	web_submit_data("login.pl",
 		"Action=http://localhost:1080/cgi-bin/login.pl",
@@ -2653,8 +2663,8 @@ Action()
 		"Mode=HTML",
 		"ITEMDATA",
 		"Name=userSession", "Value={userSession}", "ENDITEM",
-		"Name=username", "Value=jojo", "ENDITEM",
-		"Name=password", "Value=bean", "ENDITEM",
+		"Name=username", "Value={login}", "ENDITEM",
+		"Name=password", "Value={password}", "ENDITEM",
 		"Name=login.x", "Value=55", "ENDITEM",
 		"Name=login.y", "Value=10", "ENDITEM",
 		"Name=JSFormSubmit", "Value=off", "ENDITEM",
@@ -2670,6 +2680,11 @@ Action()
 		"1");
 
 	lr_think_time(5);
+	
+	web_reg_save_param("outboundFlight",
+		"LB=name=\"flightID\" value=\"",
+		"RB=\"",
+		"LAST");
 
 	web_url("Itinerary Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?page=itinerary", 
@@ -2681,10 +2696,6 @@ Action()
 		"Mode=HTML", 
 		"LAST");
 	
-	web_reg_save_param("outboundFlight",
-		"LB=name=\"flightID\" value=\"",
-		"RB=\"",
-		"LAST");
 
 	lr_end_transaction("web_tours_goto_itinerary",2);
 	
@@ -2694,9 +2705,10 @@ Action()
 		"http://localhost:1080");
 
 	lr_think_time(5);
-
+	
+	
 	web_submit_form("itinerary.pl", 
-		"Snapshot=t28.inf", 
+		"Snapshot=t44.inf", 
 		"ITEMDATA", 
 		"Name=1", "Value=on", "ENDITEM",
 		"Name=removeFlights.x", "Value=47", "ENDITEM", 
@@ -2732,85 +2744,10 @@ Action()
 }
 # 5 "c:\\users\\laiaknosse-pc\\documents\\vugen\\scripts\\delete\\\\combined_delete.c" 2
 
-# 1 "Action1.c" 1
-Action1()
-{
-
-	web_set_sockets_option("SSL_VERSION", "AUTO");
-
-	web_add_auto_header("Upgrade-Insecure-Requests", 
-		"1");
-
-	web_url("welcome.pl", 
-		"URL=http://localhost:1080/cgi-bin/welcome.pl?signOff=true", 
-		"Resource=0", 
-		"RecContentType=text/html", 
-		"Referer=http://localhost:1080/WebTours/", 
-		"Snapshot=t20.inf", 
-		"Mode=HTML", 
-		"LAST");
-
-	web_add_header("Origin", 
-		"http://localhost:1080");
-
-	web_submit_form("login.pl", 
-		"Snapshot=t21.inf", 
-		"ITEMDATA", 
-		"Name=username", "Value=jojo", "ENDITEM", 
-		"Name=password", "Value=bean", "ENDITEM", 
-		"LAST");
-
-	(web_remove_auto_header("Upgrade-Insecure-Requests", "ImplicitGen=Yes", "LAST"));
-
-	web_add_auto_header("Upgrade-Insecure-Requests", 
-		"1");
-
-	web_image("Itinerary Button", 
-		"Alt=Itinerary Button", 
-		"Snapshot=t22.inf", 
-		"LAST");
-
-	(web_remove_auto_header("Upgrade-Insecure-Requests", "ImplicitGen=Yes", "LAST"));
-
-	web_image("Search Flights Button", 
-		"Alt=Search Flights Button", 
-		"Snapshot=t23.inf", 
-		"LAST");
-
-	web_add_auto_header("Origin", 
-		"http://localhost:1080");
-
-	web_add_auto_header("Upgrade-Insecure-Requests", 
-		"1");
-
-
-	web_image("Itinerary Button_2", 
-		"Alt=Itinerary Button", 
-		"Snapshot=t27.inf", 
-		"LAST");
-
-	web_add_header("Origin", 
-		"http://localhost:1080");
-
-	lr_think_time(4);
-
-	web_submit_form("itinerary.pl", 
-		"Snapshot=t28.inf", 
-		"ITEMDATA", 
-		"Name=1", "Value=on", "ENDITEM",
-		"Name=removeFlights.x", "Value=47", "ENDITEM", 
-		"Name=removeFlights.y", "Value=12", "ENDITEM",		
-		"LAST");
-	
-
-	return 0;
-}
-# 6 "c:\\users\\laiaknosse-pc\\documents\\vugen\\scripts\\delete\\\\combined_delete.c" 2
-
 # 1 "vuser_end.c" 1
 vuser_end()
 {
 	return 0;
 }
-# 7 "c:\\users\\laiaknosse-pc\\documents\\vugen\\scripts\\delete\\\\combined_delete.c" 2
+# 6 "c:\\users\\laiaknosse-pc\\documents\\vugen\\scripts\\delete\\\\combined_delete.c" 2
 

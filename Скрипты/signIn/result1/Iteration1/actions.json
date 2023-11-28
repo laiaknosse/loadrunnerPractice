@@ -6,42 +6,42 @@
                 "stepId": "STEP1",
                 "stepName": "Url: welcome.pl",
                 "infFile": "t1.inf",
-                "time": 1700602608796
+                "time": 1701135293234
             },
             {
                 "stepId": "STEP2",
                 "stepName": "Url: sign up now",
                 "infFile": "t2.inf",
-                "time": 1700602608894
+                "time": 1701135293333
             },
             {
                 "stepId": "STEP3",
                 "stepName": "Submit Data: login.pl",
                 "infFile": "t3.inf",
-                "time": 1700602609020
+                "time": 1701135293486
             }
         ],
         "transactions": [
             {
                 "transactionName": "web_tours_gotoSignUp",
-                "rawStartTime": 1700602608809,
-                "rawEndTime": 1700602608905,
+                "rawStartTime": 1701135293248,
+                "rawEndTime": 1701135293343,
                 "thinkTime": 0.0,
-                "wastedTime": 0.004347324371337891
+                "wastedTime": 0.0033578872680664064
             },
             {
                 "transactionName": "web_tours_registration",
-                "rawStartTime": 1700602608921,
-                "rawEndTime": 1700602609030,
+                "rawStartTime": 1701135293358,
+                "rawEndTime": 1701135293496,
                 "thinkTime": 0.0,
-                "wastedTime": 0.0033426284790039064
+                "wastedTime": 0.003198385238647461
             },
             {
                 "transactionName": "signIn",
-                "rawStartTime": 1700602608620,
-                "rawEndTime": 1700602609046,
+                "rawStartTime": 1701135293059,
+                "rawEndTime": 1701135293511,
                 "thinkTime": 0.0,
-                "wastedTime": 0.0599365234375
+                "wastedTime": 0.058812856674194339
             }
         ]
     }

@@ -1,6 +1,9 @@
 Action()
 {
 
+	lr_start_transaction("booking");
+
+	
 	web_set_sockets_option("SSL_VERSION", "AUTO");
 
 	web_add_auto_header("Upgrade-Insecure-Requests", 
@@ -32,6 +35,10 @@ Action()
 	
 	web_add_header("Origin",
 		"http://localhost:1080");
+	
+	web_reg_find("Fail=NotFound",
+	"Text=User password was correct",
+		LAST);
 
 	web_submit_data("login.pl",
 		"Action=http://localhost:1080/cgi-bin/login.pl",
@@ -76,6 +83,17 @@ Action()
 
 	lr_think_time(5);
 
+/*Correlation comment - Do not change!  Original value='071;260;11/14/2023' Name ='outboundFlight' Type ='Manual'*/
+	web_reg_save_param_attrib(
+		"ParamName=outboundFlight",
+		"TagName=input",
+		"Extract=value",
+		"Name=outboundFlight",
+		"Type=radio",
+		SEARCH_FILTERS,
+		"IgnoreRedirections=No",
+		LAST);
+
 	web_submit_data("reservations.pl", 
 		"Action=http://localhost:1080/cgi-bin/reservations.pl", 
 		"Method=POST", 
@@ -102,22 +120,22 @@ Action()
 
 	lr_think_time(5);
 
-	web_submit_data("reservations.pl_2", 
-		"Action=http://localhost:1080/cgi-bin/reservations.pl", 
-		"Method=POST", 
-		"TargetFrame=", 
-		"RecContentType=text/html", 
-		"Referer=http://localhost:1080/cgi-bin/reservations.pl", 
-		"Snapshot=t5.inf", 
-		"Mode=HTML", 
-		ITEMDATA, 
-		"Name=outboundFlight", "Value=071;260;11/14/2023", ENDITEM, 
-		"Name=numPassengers", "Value=1", ENDITEM, 
-		"Name=advanceDiscount", "Value=0", ENDITEM, 
-		"Name=seatType", "Value={sitType}", ENDITEM, 
-		"Name=seatPref", "Value={sitPref}", ENDITEM, 
-		"Name=reserveFlights.x", "Value=51", ENDITEM, 
-		"Name=reserveFlights.y", "Value=14", ENDITEM, 
+	web_submit_data("reservations.pl_2",
+		"Action=http://localhost:1080/cgi-bin/reservations.pl",
+		"Method=POST",
+		"TargetFrame=",
+		"RecContentType=text/html",
+		"Referer=http://localhost:1080/cgi-bin/reservations.pl",
+		"Snapshot=t5.inf",
+		"Mode=HTML",
+		ITEMDATA,
+		"Name=outboundFlight", "Value={outboundFlight}", ENDITEM,
+		"Name=numPassengers", "Value=1", ENDITEM,
+		"Name=advanceDiscount", "Value=0", ENDITEM,
+		"Name=seatType", "Value={sitType}", ENDITEM,
+		"Name=seatPref", "Value={sitPref}", ENDITEM,
+		"Name=reserveFlights.x", "Value=51", ENDITEM,
+		"Name=reserveFlights.y", "Value=14", ENDITEM,
 		LAST);
 
 	lr_end_transaction("web_tours_search",LR_AUTO);
@@ -126,33 +144,37 @@ Action()
 
 	lr_start_transaction("web_tours_booking");
 
-	web_submit_data("reservations.pl_3", 
-		"Action=http://localhost:1080/cgi-bin/reservations.pl", 
-		"Method=POST", 
-		"TargetFrame=", 
-		"RecContentType=text/html", 
-		"Referer=http://localhost:1080/cgi-bin/reservations.pl", 
-		"Snapshot=t6.inf", 
-		"Mode=HTML", 
-		ITEMDATA, 
-		"Name=firstName", "Value={firstName}", ENDITEM, 
-		"Name=lastName", "Value={lastName}", ENDITEM, 
-		"Name=address1", "Value={address1}", ENDITEM, 
-		"Name=address2", "Value={address2}", ENDITEM, 
-		"Name=pass1", "Value={firstName} {lastName}", ENDITEM, 
-		"Name=creditCard", "Value={creditCard}", ENDITEM, 
-		"Name=expDate", "Value={expDate}", ENDITEM, 
-		"Name=oldCCOption", "Value=", ENDITEM, 
-		"Name=numPassengers", "Value=1", ENDITEM, 
-		"Name=seatType", "Value={sitType}", ENDITEM, 
-		"Name=seatPref", "Value={sitPref}", ENDITEM, 
-		"Name=outboundFlight", "Value=071;260;11/14/2023", ENDITEM, 
-		"Name=advanceDiscount", "Value=0", ENDITEM, 
-		"Name=returnFlight", "Value=", ENDITEM, 
-		"Name=JSFormSubmit", "Value=off", ENDITEM, 
-		"Name=buyFlights.x", "Value=46", ENDITEM, 
-		"Name=buyFlights.y", "Value=8", ENDITEM, 
-		"Name=.cgifields", "Value=saveCC", ENDITEM, 
+	web_reg_find("Fail=NotFound",
+		"Text=Thank you for booking through Web Tours",
+		LAST);
+
+	web_submit_data("reservations.pl_3",
+		"Action=http://localhost:1080/cgi-bin/reservations.pl",
+		"Method=POST",
+		"TargetFrame=",
+		"RecContentType=text/html",
+		"Referer=http://localhost:1080/cgi-bin/reservations.pl",
+		"Snapshot=t6.inf",
+		"Mode=HTML",
+		ITEMDATA,
+		"Name=firstName", "Value={firstName}", ENDITEM,
+		"Name=lastName", "Value={lastName}", ENDITEM,
+		"Name=address1", "Value={address1}", ENDITEM,
+		"Name=address2", "Value={address2}", ENDITEM,
+		"Name=pass1", "Value={firstName} {lastName}", ENDITEM,
+		"Name=creditCard", "Value={creditCard}", ENDITEM,
+		"Name=expDate", "Value={expDate}", ENDITEM,
+		"Name=oldCCOption", "Value=", ENDITEM,
+		"Name=numPassengers", "Value=1", ENDITEM,
+		"Name=seatType", "Value={sitType}", ENDITEM,
+		"Name=seatPref", "Value={sitPref}", ENDITEM,
+		"Name=outboundFlight", "Value={outboundFlight}", ENDITEM,
+		"Name=advanceDiscount", "Value=0", ENDITEM,
+		"Name=returnFlight", "Value=", ENDITEM,
+		"Name=JSFormSubmit", "Value=off", ENDITEM,
+		"Name=buyFlights.x", "Value=46", ENDITEM,
+		"Name=buyFlights.y", "Value=8", ENDITEM,
+		"Name=.cgifields", "Value=saveCC", ENDITEM,
 		LAST);
 
 	lr_end_transaction("web_tours_booking",LR_AUTO);
@@ -162,6 +184,10 @@ Action()
 	web_revert_auto_header("Origin");
 
 	lr_think_time(5);
+	
+	web_reg_find("Fail=NotFound",
+		"Text=Welcome to the Web Tours site",
+		LAST);
 
 	web_url("SignOff Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?signOff=1", 
@@ -174,6 +200,9 @@ Action()
 		LAST);
 
 	lr_end_transaction("web_tours_logout",LR_AUTO);
+	
+	lr_end_transaction("booking", LR_AUTO);
+
 
 	return 0;
 }
