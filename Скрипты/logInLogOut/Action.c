@@ -3,7 +3,6 @@ Action()
 	
 	lr_start_transaction("loginLogout");
 
-	
 	lr_start_transaction("web_tours_goto_welcome");
 
 	web_set_sockets_option("SSL_VERSION", "AUTO");
@@ -21,6 +20,10 @@ Action()
 		SEARCH_FILTERS,
 		"IgnoreRedirections=No",
 		"RequestUrl=*/nav.pl*",
+		LAST);
+		
+	web_reg_find("Fail=NotFound",
+		"Text=To make reservations,please enter your account information to the left.",
 		LAST);
 
 	web_url("welcome.pl", 

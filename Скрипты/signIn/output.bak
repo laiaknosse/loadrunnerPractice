@@ -1,4 +1,4 @@
-Virtual User Script started at: 28.11.2023 6:33:17
+Virtual User Script started at: 29.11.2023 6:37:47
 Starting action vuser_init.
 Web Turbo Replay of LoadRunner 2020.0.0 for Windows 10; build 793 (ноя 27 2019 19:51:20)  	[MsgId: MMSG-26983]
 Run mode: HTML  	[MsgId: MMSG-26993]
@@ -10,43 +10,59 @@ Starting iteration 1.
 Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
 Starting action Action.
 Action.c(4): Notify: Transaction "signIn" started.
-Action.c(7): web_set_sockets_option started  	[MsgId: MMSG-26355]
-Action.c(7): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
-Action.c(9): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
-Action.c(9): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
-Action.c(12): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
-Action.c(12): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
-Action.c(12): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
-Action.c(12): Found resource "http://localhost:1080/WebTours/images/mer_login.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26659]
-Action.c(12): web_url("welcome.pl") was successful, 4210 body bytes, 1181 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
-Action.c(22): Notify: Transaction "web_tours_gotoSignUp" started.
-Action.c(24): web_remove_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
-Action.c(24): Previous automatically added web header for "Upgrade-Insecure-Requests" removed  	[MsgId: MMSG-26587]
-Action.c(24): web_remove/revert_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
-Action.c(28): web_url("sign up now") started  	[MsgId: MMSG-26355]
-Action.c(28): Found resource "http://localhost:1080/WebTours/profileValidate.js" in HTML "http://localhost:1080/cgi-bin/login.pl?username=&password=&getInfo=true"  	[MsgId: MMSG-26659]
-Action.c(28): Found resource "http://localhost:1080/WebTours/images/button_next.gif" in HTML "http://localhost:1080/cgi-bin/login.pl?username=&password=&getInfo=true"  	[MsgId: MMSG-26659]
-Action.c(28): web_url("sign up now") was successful, 14475 body bytes, 841 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
-Action.c(38): Notify: Transaction "web_tours_gotoSignUp" ended with a "Pass" status (Duration: 0,0930 Wasted Time: 0,0033).
-Action.c(40): Notify: Transaction "web_tours_registration" started.
-Action.c(42): web_add_header("Origin") started  	[MsgId: MMSG-26355]
-Action.c(42): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
-Action.c(45): web_add_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
-Action.c(45): web_add_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
-Action.c(50): Random Number is 9771
-Action.c(52): web_reg_find started  	[MsgId: MMSG-26355]
-Action.c(52): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
-Action.c(56): web_submit_data("login.pl") started  	[MsgId: MMSG-26355]
-Action.c(56): Resource "http://localhost:1080/WebTours/profileValidate.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
-Action.c(56): Resource "http://localhost:1080/WebTours/images/button_next.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
-Action.c(56): Error -26366: "Text=for registering and welcome to the Web Tours family." not found for web_reg_find  	[MsgId: MERR-26366]
-Action.c(56): web_submit_data("login.pl") highest severity level was "ERROR", 2630 body bytes, 228 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26387]
-Action.c(56): Notify: Transaction "web_tours_registration" ended with a "Fail" status (Duration: 0,1306 Wasted Time: 0,0032).
-Action.c(56): Notify: Transaction "web_tours_registration" has 1 error message(s).
-Action.c(56): Notify: The 1st error message associated with transaction "web_tours_registration" is "Error -26366: "Text=for registering and welcome to the Web Tours family." not found for web_reg_find"
-Action.c(56): Notify: Transaction "signIn" ended with a "Fail" status (Duration: 0,4246 Wasted Time: 0,0601).
-Action.c(56): Notify: Transaction "signIn" has 1 error message(s).
-Action.c(56): Notify: The 1st error message associated with transaction "signIn" is "Error -26366: "Text=for registering and welcome to the Web Tours family." not found for web_reg_find"
+Action.c(6): Notify: Transaction "web_tours_goto_welcome" started.
+Action.c(8): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(8): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(10): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(10): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(13): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(13): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(17): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(17): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+Action.c(17): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+Action.c(17): Found resource "http://localhost:1080/WebTours/images/mer_login.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26659]
+Action.c(17): Registered web_reg_find successful for "Text=To make reservations,please enter your account information to the left." (count=1)  	[MsgId: MMSG-26364]
+Action.c(17): web_url("welcome.pl") was successful, 4216 body bytes, 1181 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(27): Notify: Transaction "web_tours_goto_welcome" ended with a "Pass" status (Duration: 0,2024 Wasted Time: 0,0528).
+Action.c(29): Notify: Transaction "web_tours_gotoSignUp" started.
+Action.c(31): web_remove_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(31): Previous automatically added web header for "Upgrade-Insecure-Requests" removed  	[MsgId: MMSG-26587]
+Action.c(31): web_remove/revert_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(33): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(33): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(37): web_url("sign up now") started  	[MsgId: MMSG-26355]
+Action.c(37): Found resource "http://localhost:1080/WebTours/profileValidate.js" in HTML "http://localhost:1080/cgi-bin/login.pl?username=&password=&getInfo=true"  	[MsgId: MMSG-26659]
+Action.c(37): Found resource "http://localhost:1080/WebTours/images/button_next.gif" in HTML "http://localhost:1080/cgi-bin/login.pl?username=&password=&getInfo=true"  	[MsgId: MMSG-26659]
+Action.c(37): Registered web_reg_find successful for "Text=User Information" (count=1)  	[MsgId: MMSG-26364]
+Action.c(37): web_url("sign up now") was successful, 14475 body bytes, 841 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(47): Notify: Transaction "web_tours_gotoSignUp" ended with a "Pass" status (Duration: 0,0945 Wasted Time: 0,0033).
+Action.c(49): Notify: Transaction "web_tours_registration" started.
+Action.c(51): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(51): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(54): web_add_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(54): web_add_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(57): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(57): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(61): web_submit_data("login.pl") started  	[MsgId: MMSG-26355]
+Action.c(61): Resource "http://localhost:1080/WebTours/images/button_next.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(61): Registered web_reg_find successful for "Text=for registering and welcome to the Web Tours family." (count=1)  	[MsgId: MMSG-26364]
+Action.c(61): web_submit_data("login.pl") was successful, 1077 body bytes, 359 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(81): Notify: Transaction "web_tours_registration" ended with a "Pass" status (Duration: 0,1111 Wasted Time: 0,0033).
+Action.c(83): Notify: Transaction "web_tours_registration_continue" started.
+Action.c(85): web_remove_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(85): Warning -26590: web_remove/revert_auto_header for "Upgrade-Insecure-Requests" had no effect  	[MsgId: MWAR-26590]
+Action.c(85): web_remove/revert_auto_header("Upgrade-Insecure-Requests") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(87): web_image("button_next.gif") started  	[MsgId: MMSG-26355]
+Action.c(87): Image-linking to "http://localhost:1080/cgi-bin/welcome.pl?page=menus", Target Frame="body"  	[MsgId: MMSG-27993]
+Action.c(87): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" in "http://localhost:1080/cgi-bin/welcome.pl?page=menus"  	[MsgId: MMSG-26574]
+Action.c(87): Detected non-resource "http://localhost:1080/cgi-bin/login.pl?intro=true" in "http://localhost:1080/cgi-bin/welcome.pl?page=menus"  	[MsgId: MMSG-26574]
+Action.c(87): Found resource "http://localhost:1080/WebTours/images/flights.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+Action.c(87): Found resource "http://localhost:1080/WebTours/images/itinerary.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+Action.c(87): Found resource "http://localhost:1080/WebTours/images/in_home.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+Action.c(87): Found resource "http://localhost:1080/WebTours/images/signoff.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+Action.c(87): web_image("button_next.gif") was successful, 5894 body bytes, 1893 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(92): Notify: Transaction "web_tours_registration_continue" ended with a "Pass" status (Duration: 0,1260 Wasted Time: 0,0038).
+Action.c(94): Notify: Transaction "signIn" ended with a "Pass" status (Duration: 0,6127 Wasted Time: 0,0632).
 Ending action Action.
 Ending iteration 1.
 Ending Vuser...

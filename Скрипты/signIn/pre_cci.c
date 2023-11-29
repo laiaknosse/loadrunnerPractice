@@ -2585,8 +2585,10 @@ void
 # 8 "globals.h" 2
 
 
+
  
  
+
 
 
 # 3 "c:\\users\\laiaknosse-pc\\documents\\vugen\\scripts\\signin\\\\combined_signIn.c" 2
@@ -2604,12 +2606,17 @@ Action()
 	
 	lr_start_transaction("signIn");
 
+	lr_start_transaction("web_tours_goto_welcome");
 
 	web_set_sockets_option("SSL_VERSION", "AUTO");
 
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
-
+	
+	web_reg_find("Fail=NotFound",
+		"Text=To make reservations,please enter your account information to the left.",
+		"LAST");
+	
 	web_url("welcome.pl", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?signOff=true", 
 		"TargetFrame=", 
@@ -2619,12 +2626,16 @@ Action()
 		"Snapshot=t1.inf", 
 		"Mode=HTML", 
 		"LAST");
+	
+	lr_end_transaction("web_tours_goto_welcome", 2);
 
 	lr_start_transaction("web_tours_gotoSignUp");
 
 	(web_remove_auto_header("Upgrade-Insecure-Requests", "ImplicitGen=Yes", "LAST"));
 
-	lr_think_time(5);
+	web_reg_find("Fail=NotFound",
+		"Text=User Information",
+		"LAST");
 
 	web_url("sign up now", 
 		"URL=http://localhost:1080/cgi-bin/login.pl?username=&password=&getInfo=true", 
@@ -2644,11 +2655,7 @@ Action()
 		"http://localhost:1080");
 
 	web_add_header("Upgrade-Insecure-Requests", 
-		"1");
-
-	lr_think_time(5);
-	
-	lr_output_message("Random Number is %d", atoi(lr_eval_string("{randPar}")));  
+		"1"); 
 
 	web_reg_find("Fail=NotFound",
 		"Text=for registering and welcome to the Web Tours family.",
@@ -2663,21 +2670,33 @@ Action()
 		"Snapshot=t3.inf", 
 		"Mode=HTML", 
 		"ITEMDATA", 
-		"Name=username", "Value={randPar}", "ENDITEM", 
-		"Name=password", "Value={randPar}", "ENDITEM", 
-		"Name=passwordConfirm", "Value={randPar}", "ENDITEM", 
-		"Name=firstName", "Value={randPar}", "ENDITEM", 
-		"Name=lastName", "Value={randPar}", "ENDITEM", 
-		"Name=address1", "Value={randPar}", "ENDITEM", 
-		"Name=address2", "Value={randPar}", "ENDITEM", 
+		"Name=username", "Value={randParLogin}", "ENDITEM", 
+		"Name=password", "Value={randParLogin}", "ENDITEM", 
+		"Name=passwordConfirm", "Value={randParLogin}", "ENDITEM", 
+		"Name=firstName", "Value={randParName}", "ENDITEM", 
+		"Name=lastName", "Value={randParName}", "ENDITEM", 
+		"Name=address1", "Value={randParAddress}", "ENDITEM", 
+		"Name=address2", "Value={randParAddress}", "ENDITEM", 
 		"Name=register.x", "Value=65", "ENDITEM", 
 		"Name=register.y", "Value=15", "ENDITEM", 
 		"LAST");
+	
+	
+	
+ 
+	
+	(web_remove_auto_header("Upgrade-Insecure-Requests", "ImplicitGen=Yes", "LAST"));
 
+	web_image("button_next.gif", 
+		"Src=/WebTours/images/button_next.gif", 
+		"Snapshot=t7.inf", 
+		"LAST");
+	
 	lr_end_transaction("web_tours_registration",2);
 	
-	lr_end_transaction("signIn", 2);
+ 
 
+	lr_end_transaction("signIn", 2);
 
 	return 0;
 }

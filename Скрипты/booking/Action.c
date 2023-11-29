@@ -2,7 +2,8 @@ Action()
 {
 
 	lr_start_transaction("booking");
-
+	
+	lr_start_transaction("web_tours_goto_welcome");
 	
 	web_set_sockets_option("SSL_VERSION", "AUTO");
 
@@ -21,6 +22,10 @@ Action()
 		"RequestUrl=*/nav.pl*",
 		LAST);
 
+	web_reg_find("Fail=NotFound",
+		"Text=To make reservations,please enter your account information to the left.",
+		LAST);
+
 	web_url("welcome.pl", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?signOff=true", 
 		"TargetFrame=", 
@@ -30,8 +35,10 @@ Action()
 		"Snapshot=t1.inf", 
 		"Mode=HTML", 
 		LAST);
+		
+	lr_end_transaction("web_tours_goto_welcome", LR_AUTO);	
+		
 	lr_start_transaction("web_tours_login");
-	
 	
 	web_add_header("Origin",
 		"http://localhost:1080");
@@ -59,14 +66,16 @@ Action()
 
 	lr_end_transaction("web_tours_login",LR_AUTO);
 
-	lr_start_transaction("web_tours_search");
+	lr_start_transaction("web_tours_search_button");
 
 	web_revert_auto_header("Upgrade-Insecure-Requests");
 
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
-
-	lr_think_time(5);
+	
+	web_reg_find("Fail=NotFound",
+	"Text=User has returned to the search page.",
+		LAST);
 
 	web_url("Search Flights Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?page=search", 
@@ -80,9 +89,12 @@ Action()
 
 	web_add_auto_header("Origin", 
 		"http://localhost:1080");
+	
+	lr_end_transaction("web_tours_search_button",LR_AUTO);
 
-	lr_think_time(5);
+	lr_start_transaction("web_tours_reservation");
 
+	
 /*Correlation comment - Do not change!  Original value='071;260;11/14/2023' Name ='outboundFlight' Type ='Manual'*/
 	web_reg_save_param_attrib(
 		"ParamName=outboundFlight",
@@ -117,8 +129,14 @@ Action()
 		"Name=.cgifields", "Value={sitType}", ENDITEM, 
 		"Name=.cgifields", "Value={sitPref}", ENDITEM, 
 		LAST);
+		
+	lr_end_transaction("web_tours_reservation", LR_AUTO);
 
-	lr_think_time(5);
+	lr_start_transaction("web_tours_reservation2");
+	
+	web_reg_find("Fail=NotFound",
+	"Text=Flight Reservation",
+		LAST);
 
 	web_submit_data("reservations.pl_2",
 		"Action=http://localhost:1080/cgi-bin/reservations.pl",
@@ -138,10 +156,10 @@ Action()
 		"Name=reserveFlights.y", "Value=14", ENDITEM,
 		LAST);
 
-	lr_end_transaction("web_tours_search",LR_AUTO);
-
-	lr_think_time(5);
-
+	
+	
+	lr_end_transaction("web_tours_reservation2", LR_AUTO);
+	
 	lr_start_transaction("web_tours_booking");
 
 	web_reg_find("Fail=NotFound",
@@ -183,7 +201,6 @@ Action()
 
 	web_revert_auto_header("Origin");
 
-	lr_think_time(5);
 	
 	web_reg_find("Fail=NotFound",
 		"Text=Welcome to the Web Tours site",

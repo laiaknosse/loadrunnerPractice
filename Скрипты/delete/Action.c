@@ -2,7 +2,7 @@ Action()
 {
 	lr_start_transaction("delete");
 	
-	lr_start_transaction("web_tours_login");
+	lr_start_transaction("web_tours_goto_welcome");
 
 	web_set_sockets_option("SSL_VERSION", "AUTO");
 
@@ -20,7 +20,11 @@ Action()
 		"IgnoreRedirections=No",
 		"RequestUrl=*/nav.pl*",
 		LAST);
-
+	
+	web_reg_find("Fail=NotFound",
+		"Text=To make reservations,please enter your account information to the left.",
+		LAST);
+	
 	web_url("welcome.pl", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?signOff=true", 
 		"TargetFrame=", 
@@ -30,10 +34,14 @@ Action()
 		"Snapshot=t1.inf", 
 		"Mode=HTML", 
 		LAST);
+		
+	lr_end_transaction("web_tours_goto_welcome", LR_AUTO);
+	
+	lr_start_transaction("web_tours_login");
 
 	web_add_header("Origin", 
 		"http://localhost:1080");
-		
+			
 	web_reg_find("Fail=NotFound",
 	"Text=User password was correct",
 		LAST);
@@ -48,8 +56,8 @@ Action()
 		"Mode=HTML",
 		ITEMDATA,
 		"Name=userSession", "Value={userSession}", ENDITEM,
-		"Name=username", "Value={login}", ENDITEM,
-		"Name=password", "Value={password}", ENDITEM,
+		"Name=username", "Value=jojo", ENDITEM,
+		"Name=password", "Value=bean", ENDITEM,
 		"Name=login.x", "Value=55", ENDITEM,
 		"Name=login.y", "Value=10", ENDITEM,
 		"Name=JSFormSubmit", "Value=off", ENDITEM,
@@ -63,8 +71,6 @@ Action()
 
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
-
-	lr_think_time(5);
 	
 	web_reg_save_param("outboundFlight",
 		"LB=name=\"flightID\" value=\"",
@@ -81,16 +87,12 @@ Action()
 		"Mode=HTML", 
 		LAST);
 	
-
 	lr_end_transaction("web_tours_goto_itinerary",LR_AUTO);
 	
 	lr_start_transaction("web_tours_deleteSelected");
 
 	web_add_header("Origin", 
 		"http://localhost:1080");
-
-	lr_think_time(5);
-	
 	
 	web_submit_form("itinerary.pl", 
 		"Snapshot=t44.inf", 
@@ -105,8 +107,6 @@ Action()
 		LAST);
 
 	lr_end_transaction("web_tours_deleteSelected",LR_AUTO);
-
-	lr_think_time(5);
 
 	lr_start_transaction("web_tours_logout");
 	

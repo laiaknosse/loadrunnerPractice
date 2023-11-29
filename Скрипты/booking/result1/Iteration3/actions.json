@@ -1,0 +1,112 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP15",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t2.inf",
+                "time": 1701229131038
+            },
+            {
+                "stepId": "STEP16",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t3.inf",
+                "time": 1701229131211
+            },
+            {
+                "stepId": "STEP17",
+                "stepName": "Url: Search Flights Button",
+                "infFile": "t4.inf",
+                "time": 1701229131428
+            },
+            {
+                "stepId": "STEP18",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t6.inf",
+                "time": 1701229131539
+            },
+            {
+                "stepId": "STEP19",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t7.inf",
+                "time": 1701229131651
+            },
+            {
+                "stepId": "STEP20",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t8.inf",
+                "time": 1701229131755
+            },
+            {
+                "stepId": "STEP21",
+                "stepName": "Url: SignOff Button",
+                "infFile": "t9.inf",
+                "time": 1701229131885
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "web_tours_goto_welcome",
+                "rawStartTime": 1701229130870,
+                "rawEndTime": 1701229131054,
+                "thinkTime": 0.0,
+                "wastedTime": 0.008434772491455078
+            },
+            {
+                "transactionName": "web_tours_login",
+                "rawStartTime": 1701229131069,
+                "rawEndTime": 1701229131226,
+                "thinkTime": 0.0,
+                "wastedTime": 0.008652448654174805
+            },
+            {
+                "transactionName": "web_tours_search_button",
+                "rawStartTime": 1701229131242,
+                "rawEndTime": 1701229131445,
+                "thinkTime": 0.0,
+                "wastedTime": 0.007879495620727539
+            },
+            {
+                "transactionName": "web_tours_reservation",
+                "rawStartTime": 1701229131462,
+                "rawEndTime": 1701229131555,
+                "thinkTime": 0.0,
+                "wastedTime": 0.008691072463989258
+            },
+            {
+                "transactionName": "web_tours_reservation2",
+                "rawStartTime": 1701229131571,
+                "rawEndTime": 1701229131666,
+                "thinkTime": 0.0,
+                "wastedTime": 0.008984088897705078
+            },
+            {
+                "transactionName": "web_tours_booking",
+                "rawStartTime": 1701229131681,
+                "rawEndTime": 1701229131758,
+                "thinkTime": 0.0,
+                "wastedTime": 0.008428335189819336
+            },
+            {
+                "transactionName": "web_tours_logout",
+                "rawStartTime": 1701229131774,
+                "rawEndTime": 1701229131900,
+                "thinkTime": 0.0,
+                "wastedTime": 0.007495403289794922
+            },
+            {
+                "transactionName": "booking",
+                "rawStartTime": 1701229130855,
+                "rawEndTime": 1701229131916,
+                "thinkTime": 0.0,
+                "wastedTime": 0.058565616607666019
+            }
+        ]
+    },
+    {
+        "actionName": "Action1",
+        "steps": [],
+        "transactions": []
+    }
+]

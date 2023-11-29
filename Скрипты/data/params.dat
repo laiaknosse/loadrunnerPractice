@@ -1,11 +1,11 @@
 login,password,firstName,lastName,depCity,arCity,sitType,sitPref,creditCard,expDate,address1,address2
-jojo,bean,Jojo,Bean,London,Frankfurt,Coach,Aisle,111111111,01/25,Los Angeles,First st. 1
-bobo,jean,Bobo,Jean,Paris,Los Angeles,Buisness,None,222222222,02/25,London,Second st. 2
-nono,nean,Nono,Nean,San Francisco,Sydney,Buisness,Window,33333333,03/25,Seattle,Third st. 3
-momo,mean,Momo,Mean,Portland,London,Coach,None,44444444,04/25,Denver,Fourth st. 4
-gogo,gean,Gogo,Gean,Denver,Seattle,Coach,Aisle,55555555,05/25,Zurich,Fifth st. 5
-zozo,zean,Zozo,Zean,Paris,Zurich,First,Window,666666666,06/25,Frankfurt,Sixth st. 6
-toto,tean,Toto,Tean,Zurich,Frankfurt,First,Window,77777777,07/25,Paris,Seventh st. 7
-fofo,fean,Fofo,Fean,Seattle,Portland,First,Aisle,88888888,08/25,Los Angeles,Eighth st. 8
-roro,rean,Roro,Rean,London,Los Angeles,Coach,Window,99999999,09/25,Seattle,Ninth st. 9
-lolo,lean,Lolo,Lean,San Francisco,Frankfurt,Buisness,None,00000000,10/25,Frankfurt,Tenth st. 10
+jojo,bean,Jojo,Bean,Denver,Zurich,Coach,Aisle,111111111,01/25,Los Angeles,First st. 1
+bobo,jean,Bobo,Jean,Frankfurt,Sydney,Buisness,None,222222222,02/25,London,Second st. 2
+nono,nean,Nono,Nean,London,Seattle,Buisness,Window,33333333,03/25,Seattle,Third st. 3
+momo,mean,Momo,Mean,Los Angeles,San Francisco,Coach,None,44444444,04/25,Denver,Fourth st. 4
+gogo,gean,Gogo,Gean,Paris,Portland,Coach,Aisle,55555555,05/25,Zurich,Fifth st. 5
+zozo,zean,Zozo,Zean,Portland,Paris,First,Window,666666666,06/25,Frankfurt,Sixth st. 6
+toto,tean,Toto,Tean,San Francisco,Los Angeles,First,Window,77777777,07/25,Paris,Seventh st. 7
+fofo,fean,Fofo,Fean,Seattle,London,First,Aisle,88888888,08/25,Los Angeles,Eighth st. 8
+roro,rean,Roro,Rean,Sydney,Frankfurt,Coach,Window,99999999,09/25,Seattle,Ninth st. 9
+lolo,lean,Lolo,Lean,Zurich,Denver,Buisness,None,00000000,10/25,Frankfurt,Tenth st. 10

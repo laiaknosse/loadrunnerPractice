@@ -52,7 +52,7 @@ vuser_init=cci
 Action=cci
 vuser_end=cci
 [TransactionsOrder]
-Order="delete__*delimiter*__web_tours_login__*delimiter*__web_tours_goto_itinerary__*delimiter*__web_tours_deleteSelected__*delimiter*__web_tours_logout"
+Order="delete__*delimiter*__web_tours_login__*delimiter*__web_tours_goto_itinerary__*delimiter*__web_tours_deleteSelected__*delimiter*__web_tours_logout__*delimiter*__web_tours_goto_welcome"
 [StateManagement]
 LastReplayStatus=2
 [ActiveReplay]
@@ -64,3 +64,4 @@ web_tours_login=
 web_tours_goto_itinerary=
 web_tours_deleteSelected=
 web_tours_logout=
+web_tours_goto_welcome=

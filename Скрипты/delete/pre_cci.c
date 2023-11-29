@@ -2649,8 +2649,8 @@ Action()
 	web_add_header("Origin", 
 		"http://localhost:1080");
 		
-	web_reg_find("Fail=Found",
-	"Text=User password was incorrect",
+	web_reg_find("Fail=NotFound",
+	"Text=User password was correct",
 		"LAST");
 
 	web_submit_data("login.pl",
@@ -2663,8 +2663,8 @@ Action()
 		"Mode=HTML",
 		"ITEMDATA",
 		"Name=userSession", "Value={userSession}", "ENDITEM",
-		"Name=username", "Value={login}", "ENDITEM",
-		"Name=password", "Value={password}", "ENDITEM",
+		"Name=username", "Value=jojo", "ENDITEM",
+		"Name=password", "Value=bean", "ENDITEM",
 		"Name=login.x", "Value=55", "ENDITEM",
 		"Name=login.y", "Value=10", "ENDITEM",
 		"Name=JSFormSubmit", "Value=off", "ENDITEM",
@@ -2724,6 +2724,10 @@ Action()
 	lr_think_time(5);
 
 	lr_start_transaction("web_tours_logout");
+	
+	web_reg_find("Fail=NotFound",
+		"Text=Welcome to the Web Tours site",
+		"LAST");
 
 	web_url("SignOff Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?signOff=1", 

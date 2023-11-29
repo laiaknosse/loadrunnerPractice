@@ -6,42 +6,55 @@
                 "stepId": "STEP1",
                 "stepName": "Url: welcome.pl",
                 "infFile": "t1.inf",
-                "time": 1701135293234
+                "time": 1701221904283
             },
             {
                 "stepId": "STEP2",
                 "stepName": "Url: sign up now",
                 "infFile": "t2.inf",
-                "time": 1701135293333
+                "time": 1701221904393
             },
             {
                 "stepId": "STEP3",
                 "stepName": "Submit Data: login.pl",
                 "infFile": "t3.inf",
-                "time": 1701135293486
+                "time": 1701221904518
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Image: button_next.gif",
+                "infFile": "t4.inf",
+                "time": 1701221904648
             }
         ],
         "transactions": [
             {
-                "transactionName": "web_tours_gotoSignUp",
-                "rawStartTime": 1701135293248,
-                "rawEndTime": 1701135293343,
+                "transactionName": "web_tours_goto_welcome",
+                "rawStartTime": 1701221904092,
+                "rawEndTime": 1701221904295,
                 "thinkTime": 0.0,
-                "wastedTime": 0.0033578872680664064
+                "wastedTime": 0.05337810516357422
+            },
+            {
+                "transactionName": "web_tours_gotoSignUp",
+                "rawStartTime": 1701221904311,
+                "rawEndTime": 1701221904405,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0033528804779052736
             },
             {
                 "transactionName": "web_tours_registration",
-                "rawStartTime": 1701135293358,
-                "rawEndTime": 1701135293496,
+                "rawStartTime": 1701221904421,
+                "rawEndTime": 1701221904653,
                 "thinkTime": 0.0,
-                "wastedTime": 0.003198385238647461
+                "wastedTime": 0.007863044738769532
             },
             {
                 "transactionName": "signIn",
-                "rawStartTime": 1701135293059,
-                "rawEndTime": 1701135293511,
+                "rawStartTime": 1701221904076,
+                "rawEndTime": 1701221904668,
                 "thinkTime": 0.0,
-                "wastedTime": 0.058812856674194339
+                "wastedTime": 0.06459403038024903
             }
         ]
     }

@@ -6,74 +6,107 @@
                 "stepId": "STEP1",
                 "stepName": "Url: welcome.pl",
                 "infFile": "t2.inf",
-                "time": 1700128039323
+                "time": 1701229128972
             },
             {
                 "stepId": "STEP2",
                 "stepName": "Submit Data: login.pl",
                 "infFile": "t3.inf",
-                "time": 1700128039434
+                "time": 1701229129135
             },
             {
                 "stepId": "STEP3",
                 "stepName": "Url: Search Flights Button",
                 "infFile": "t4.inf",
-                "time": 1700128039642
+                "time": 1701229129339
             },
             {
                 "stepId": "STEP4",
                 "stepName": "Submit Data: reservations.pl",
-                "infFile": "t5.inf",
-                "time": 1700128039729
+                "infFile": "t6.inf",
+                "time": 1701229129451
             },
             {
                 "stepId": "STEP5",
                 "stepName": "Submit Data: reservations.pl_2",
-                "infFile": "t6.inf",
-                "time": 1700128039819
+                "infFile": "t7.inf",
+                "time": 1701229129542
             },
             {
                 "stepId": "STEP6",
                 "stepName": "Submit Data: reservations.pl_3",
-                "infFile": "t7.inf",
-                "time": 1700128039913
+                "infFile": "t8.inf",
+                "time": 1701229129638
             },
             {
                 "stepId": "STEP7",
                 "stepName": "Url: SignOff Button",
-                "infFile": "t8.inf",
-                "time": 1700128040042
+                "infFile": "t9.inf",
+                "time": 1701229129764
             }
         ],
         "transactions": [
             {
-                "transactionName": "web_tours_login",
-                "rawStartTime": 1700128039337,
-                "rawEndTime": 1700128039446,
+                "transactionName": "web_tours_goto_welcome",
+                "rawStartTime": 1701229128765,
+                "rawEndTime": 1701229128985,
                 "thinkTime": 0.0,
-                "wastedTime": 0.003663301467895508
+                "wastedTime": 0.05486321449279785
             },
             {
-                "transactionName": "web_tours_search",
-                "rawStartTime": 1700128039462,
-                "rawEndTime": 1700128039826,
+                "transactionName": "web_tours_login",
+                "rawStartTime": 1701229129001,
+                "rawEndTime": 1701229129139,
                 "thinkTime": 0.0,
-                "wastedTime": 0.0106658935546875
+                "wastedTime": 0.0042705535888671879
+            },
+            {
+                "transactionName": "web_tours_search_button",
+                "rawStartTime": 1701229129154,
+                "rawEndTime": 1701229129360,
+                "thinkTime": 0.0,
+                "wastedTime": 0.004101753234863281
+            },
+            {
+                "transactionName": "web_tours_reservation",
+                "rawStartTime": 1701229129376,
+                "rawEndTime": 1701229129456,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0045397281646728519
+            },
+            {
+                "transactionName": "web_tours_reservation2",
+                "rawStartTime": 1701229129471,
+                "rawEndTime": 1701229129549,
+                "thinkTime": 0.0,
+                "wastedTime": 0.003437519073486328
             },
             {
                 "transactionName": "web_tours_booking",
-                "rawStartTime": 1700128039857,
-                "rawEndTime": 1700128039921,
+                "rawStartTime": 1701229129565,
+                "rawEndTime": 1701229129642,
                 "thinkTime": 0.0,
-                "wastedTime": 0.0038526058197021486
+                "wastedTime": 0.0032820701599121095
             },
             {
                 "transactionName": "web_tours_logout",
-                "rawStartTime": 1700128039937,
-                "rawEndTime": 1700128040047,
+                "rawStartTime": 1701229129659,
+                "rawEndTime": 1701229129769,
                 "thinkTime": 0.0,
-                "wastedTime": 0.0030393600463867189
+                "wastedTime": 0.003109455108642578
+            },
+            {
+                "transactionName": "booking",
+                "rawStartTime": 1701229128749,
+                "rawEndTime": 1701229129785,
+                "thinkTime": 0.0,
+                "wastedTime": 0.07760429382324219
             }
         ]
+    },
+    {
+        "actionName": "Action1",
+        "steps": [],
+        "transactions": []
     }
 ]
