@@ -1,7 +1,7 @@
 [parameter:login]
 ColumnName="login"
 Delimiter=","
-GenerateNewVal="EachIteration"
+GenerateNewVal="EachOccurrence"
 OriginalValue=""
 OutOfRangePolicy="ContinueWithLast"
 ParamName="login"

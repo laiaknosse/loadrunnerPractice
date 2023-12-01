@@ -2671,8 +2671,8 @@ Action()
 		"Mode=HTML",
 		"ITEMDATA",
 		"Name=userSession", "Value={userSession}", "ENDITEM",
-		"Name=username", "Value=jojo", "ENDITEM",
-		"Name=password", "Value=bean", "ENDITEM",
+		"Name=username", "Value={login}", "ENDITEM",
+		"Name=password", "Value={password}", "ENDITEM",
 		"Name=login.x", "Value=55", "ENDITEM",
 		"Name=login.y", "Value=10", "ENDITEM",
 		"Name=JSFormSubmit", "Value=off", "ENDITEM",
@@ -2723,16 +2723,6 @@ Action()
 		"Mode=HTML", 
 		"LAST");
 	
- 
- 
- 
- 
- 
- 
- 
-	
-	
-
 	lr_end_transaction("web_tours_deleteSelected",2);
 
 	lr_start_transaction("web_tours_logout");

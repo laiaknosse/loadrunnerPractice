@@ -41,7 +41,8 @@ Action()
 
 	web_add_header("Origin", 
 		"http://localhost:1080");
-			
+		
+	
 	web_reg_find("Fail=NotFound",
 	"Text=User password was correct",
 		LAST);
