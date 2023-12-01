@@ -57,7 +57,7 @@ value_for_each_vuser=""
 [parameter:login]
 ColumnName="login"
 Delimiter=","
-GenerateNewVal="EachIteration"
+GenerateNewVal="EachOccurrence"
 OriginalValue=""
 OutOfRangePolicy="ContinueWithLast"
 ParamName="login"

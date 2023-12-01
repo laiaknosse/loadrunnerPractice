@@ -6,42 +6,62 @@
                 "stepId": "STEP1",
                 "stepName": "Url: welcome.pl",
                 "infFile": "t2.inf",
-                "time": 1701207038838
+                "time": 1701360810432
             },
             {
                 "stepId": "STEP2",
                 "stepName": "Submit Data: login.pl",
                 "infFile": "t3.inf",
-                "time": 1701207038968
+                "time": 1701360810594
             },
             {
                 "stepId": "STEP3",
                 "stepName": "Url: Itinerary Button",
                 "infFile": "t4.inf",
-                "time": 1701207039152
+                "time": 1701360810798
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: Itinerary Button",
+                "infFile": "t5.inf",
+                "time": 1701360810933
             }
         ],
         "transactions": [
             {
-                "transactionName": "web_tours_login",
-                "rawStartTime": 1701207038643,
-                "rawEndTime": 1701207038971,
+                "transactionName": "web_tours_goto_welcome",
+                "rawStartTime": 1701360810223,
+                "rawEndTime": 1701360810440,
                 "thinkTime": 0.0,
-                "wastedTime": 0.06102275848388672
+                "wastedTime": 0.056063175201416019
+            },
+            {
+                "transactionName": "web_tours_login",
+                "rawStartTime": 1701360810456,
+                "rawEndTime": 1701360810598,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0046656131744384769
             },
             {
                 "transactionName": "web_tours_goto_itinerary",
-                "rawStartTime": 1701207038986,
-                "rawEndTime": 1701207039152,
+                "rawStartTime": 1701360810614,
+                "rawEndTime": 1701360810801,
                 "thinkTime": 0.0,
-                "wastedTime": 0.003743886947631836
+                "wastedTime": 0.004925251007080078
+            },
+            {
+                "transactionName": "web_tours_deleteSelected",
+                "rawStartTime": 1701360810816,
+                "rawEndTime": 1701360810933,
+                "thinkTime": 0.0,
+                "wastedTime": 0.003526926040649414
             },
             {
                 "transactionName": "delete",
-                "rawStartTime": 1701207038627,
-                "rawEndTime": 1701207039152,
+                "rawStartTime": 1701360810208,
+                "rawEndTime": 1701360810933,
                 "thinkTime": 0.0,
-                "wastedTime": 0.06476664543151856
+                "wastedTime": 0.06918096542358399
             }
         ]
     }

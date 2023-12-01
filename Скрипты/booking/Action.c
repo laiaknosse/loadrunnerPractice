@@ -3,7 +3,7 @@ Action()
 
 	lr_start_transaction("booking");
 	
-	lr_start_transaction("web_tours_goto_welcome");
+	
 	
 	web_set_sockets_option("SSL_VERSION", "AUTO");
 
@@ -21,6 +21,8 @@ Action()
 		"IgnoreRedirections=No",
 		"RequestUrl=*/nav.pl*",
 		LAST);
+		
+	lr_start_transaction("web_tours_goto_welcome");
 
 	web_reg_find("Fail=NotFound",
 		"Text=To make reservations,please enter your account information to the left.",
@@ -96,14 +98,20 @@ Action()
 
 	
 /*Correlation comment - Do not change!  Original value='071;260;11/14/2023' Name ='outboundFlight' Type ='Manual'*/
-	web_reg_save_param_attrib(
-		"ParamName=outboundFlight",
-		"TagName=input",
-		"Extract=value",
-		"Name=outboundFlight",
-		"Type=radio",
-		SEARCH_FILTERS,
-		"IgnoreRedirections=No",
+//	web_reg_save_param_attrib(
+//		"ParamName=outboundFlight",
+//		"TagName=input",
+//		"Extract=value",
+//		"Name=outboundFlight",
+//		"Type=radio",
+//		SEARCH_FILTERS,
+//		"IgnoreRedirections=No",
+//		LAST);
+		
+	web_reg_save_param("outboundFlight",
+		"LB=outboundFlight\" value=\"",
+		"RB=\"",
+		"Ord={random}",
 		LAST);
 
 	web_submit_data("reservations.pl", 

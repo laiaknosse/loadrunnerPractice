@@ -2606,7 +2606,7 @@ Action()
 
 	lr_start_transaction("booking");
 	
-	lr_start_transaction("web_tours_goto_welcome");
+	
 	
 	web_set_sockets_option("SSL_VERSION", "AUTO");
 
@@ -2624,6 +2624,8 @@ Action()
 		"IgnoreRedirections=No",
 		"RequestUrl=*/nav.pl*",
 		"LAST");
+		
+	lr_start_transaction("web_tours_goto_welcome");
 
 	web_reg_find("Fail=NotFound",
 		"Text=To make reservations,please enter your account information to the left.",
@@ -2660,8 +2662,8 @@ Action()
 		"Mode=HTML",
 		"ITEMDATA",
 		"Name=userSession", "Value={userSession}", "ENDITEM",
-		"Name=username", "Value=jojo", "ENDITEM",
-		"Name=password", "Value=bean", "ENDITEM",
+		"Name=username", "Value={login}", "ENDITEM",
+		"Name=password", "Value={password}", "ENDITEM",
 		"Name=login.x", "Value=31", "ENDITEM",
 		"Name=login.y", "Value=9", "ENDITEM",
 		"Name=JSFormSubmit", "Value=off", "ENDITEM",
@@ -2707,6 +2709,12 @@ Action()
 		"Type=radio",
 		"SEARCH_FILTERS",
 		"IgnoreRedirections=No",
+		"LAST");
+		
+	web_reg_save_param("outboundFlight1",
+		"LB=outboundFlight\" value=\"",
+		"RB=\"",
+		"Ord={random}",
 		"LAST");
 
 	web_submit_data("reservations.pl", 
@@ -2828,193 +2836,10 @@ Action()
 }
 # 5 "c:\\users\\laiaknosse-pc\\documents\\vugen\\scripts\\booking\\\\combined_booking.c" 2
 
-# 1 "Action1.c" 1
-Action1()
-{
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-	return 0;
-}
-# 6 "c:\\users\\laiaknosse-pc\\documents\\vugen\\scripts\\booking\\\\combined_booking.c" 2
-
 # 1 "vuser_end.c" 1
 vuser_end()
 {
 	return 0;
 }
-# 7 "c:\\users\\laiaknosse-pc\\documents\\vugen\\scripts\\booking\\\\combined_booking.c" 2
+# 6 "c:\\users\\laiaknosse-pc\\documents\\vugen\\scripts\\booking\\\\combined_booking.c" 2
 

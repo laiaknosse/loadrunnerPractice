@@ -1,3 +1,3 @@
-"advanceDiscount=0&depart=San+Francisco&departDate=11%2F30%2F2023&arrive=Portland&returnDate=12"
-"%2F03%2F2023&numPassengers=1&seatPref=Window&seatType=Buisness&findFlights.x=49&findFlights.y="
-"8&.cgifields=roundtrip&.cgifields=Buisness&.cgifields=Window"
+"advanceDiscount=0&depart=Denver&departDate=12%2F01%2F2023&arrive=Seattle&returnDate=12%2F04%2F"
+"2023&numPassengers=1&seatPref=None&seatType=Coach&findFlights.x=49&findFlights.y=8&.cgifields="
+"roundtrip&.cgifields=Coach&.cgifields=None"

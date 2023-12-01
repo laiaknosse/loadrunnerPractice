@@ -55,6 +55,10 @@ Action()
 	web_add_header("Origin", 
 		"http://localhost:1080");
 
+	web_reg_find("Fail=NotFound",
+		"Text=Flight Selections",
+		LAST);
+
 	web_submit_form("reservations.pl", 
 		"Snapshot=t17.inf", 
 		ITEMDATA, 

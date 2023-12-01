@@ -70,10 +70,10 @@ Action()
 		"Name=username", "Value={randParLogin}", ENDITEM, 
 		"Name=password", "Value={randParLogin}", ENDITEM, 
 		"Name=passwordConfirm", "Value={randParLogin}", ENDITEM, 
-		"Name=firstName", "Value={randParName}", ENDITEM, 
-		"Name=lastName", "Value={randParName}", ENDITEM, 
-		"Name=address1", "Value={randParAddress}", ENDITEM, 
-		"Name=address2", "Value={randParAddress}", ENDITEM, 
+		"Name=firstName", "Value={randParLogin}", ENDITEM, 
+		"Name=lastName", "Value={randParLogin}", ENDITEM, 
+		"Name=address1", "Value={randParLogin}", ENDITEM, 
+		"Name=address2", "Value={randParLogin}", ENDITEM, 
 		"Name=register.x", "Value=65", ENDITEM, 
 		"Name=register.y", "Value=15", ENDITEM, 
 		LAST);
@@ -83,6 +83,10 @@ Action()
 	lr_start_transaction("web_tours_registration_continue");
 	
 	web_revert_auto_header("Upgrade-Insecure-Requests");
+	
+	web_reg_find("Fail=NotFound",
+		"Text=User has returned to the home page.",
+		LAST);
 
 	web_image("button_next.gif", 
 		"Src=/WebTours/images/button_next.gif", 

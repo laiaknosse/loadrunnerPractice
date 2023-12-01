@@ -56,8 +56,8 @@ Action()
 		"Mode=HTML",
 		ITEMDATA,
 		"Name=userSession", "Value={userSession}", ENDITEM,
-		"Name=username", "Value=jojo", ENDITEM,
-		"Name=password", "Value=bean", ENDITEM,
+		"Name=username", "Value={login}", ENDITEM,
+		"Name=password", "Value={password}", ENDITEM,
 		"Name=login.x", "Value=55", ENDITEM,
 		"Name=login.y", "Value=10", ENDITEM,
 		"Name=JSFormSubmit", "Value=off", ENDITEM,
@@ -94,18 +94,20 @@ Action()
 	web_add_header("Origin", 
 		"http://localhost:1080");
 	
-	web_submit_form("itinerary.pl", 
-		"Snapshot=t44.inf", 
-		ITEMDATA, 
-		"Name=1", "Value=on", ENDITEM,
-		"Name=removeFlights.x", "Value=47", ENDITEM, 
-		"Name=removeFlights.y", "Value=12", ENDITEM,		
-		LAST);
-	
 	web_reg_find("Fail=Found",
 		"Text={outboundFlight}",
 		LAST);
-
+	
+	web_url("Itinerary Button", 
+		"URL=http://localhost:1080/cgi-bin/welcome.pl?page=itinerary", 
+		"TargetFrame=body", 
+		"Resource=0", 
+		"RecContentType=text/html", 
+		"Referer=http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home", 
+		"Snapshot=t3.inf", 
+		"Mode=HTML", 
+		LAST);
+	
 	lr_end_transaction("web_tours_deleteSelected",LR_AUTO);
 
 	lr_start_transaction("web_tours_logout");
